@@ -1,0 +1,5014 @@
+[
+  {
+    "id": "Q001",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "What does HVAC stand for?",
+    "choices": [
+      "Heating, Ventilation, and Air Conditioning",
+      "High Voltage Air Circulation",
+      "Heating, Vacuum, and Air Compression",
+      "Home Ventilation and Air Control"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q002",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute helps an HVAC technician work efficiently during a crisis and manage clients with high temper?",
+    "choices": ["Integrity", "Punctuality", "Patience", "Critical Thinking"],
+    "answer": 2
+  },
+  {
+    "id": "Q003",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute promotes trusting relationships with clients and good interaction with colleagues?",
+    "choices": ["Patience", "Integrity", "Punctuality", "Critical Thinking"],
+    "answer": 1
+  },
+  {
+    "id": "Q004",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute helps an HVAC technician be organized, aware of timelines, and plan daily activities?",
+    "choices": ["Patience", "Integrity", "Punctuality", "Critical Thinking"],
+    "answer": 2
+  },
+  {
+    "id": "Q005",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute allows an HVAC technician to analyze issues, evaluate them, and make wise decisions?",
+    "choices": ["Patience", "Integrity", "Punctuality", "Critical Thinking"],
+    "answer": 3
+  },
+  {
+    "id": "Q006",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which skill helps an HVAC technician work as a team member, communicate constraints, and build coordination?",
+    "choices": ["Critical Thinking", "Good Interpersonal Relationship Building", "Integrity", "Punctuality"],
+    "answer": 1
+  },
+  {
+    "id": "Q007",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What is the primary role of an HVAC technician?",
+    "choices": [
+      "To design building layouts",
+      "To install, maintain, and repair ventilation and air conditioning systems",
+      "To manage financial accounts",
+      "To write software for HVAC systems"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q008",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician identify on equipment?",
+    "choices": ["Cost of equipment", "Maintenance risks", "Brand names", "Warranty expiry dates"],
+    "answer": 1
+  },
+  {
+    "id": "Q009",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What type of faults does an HVAC technician diagnose?",
+    "choices": ["Software and network faults", "Electrical and mechanical faults", "Structural and civil faults", "Plumbing and drainage faults"],
+    "answer": 1
+  },
+  {
+    "id": "Q010",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What kind of repairs must an HVAC technician perform promptly and efficiently?",
+    "choices": ["Aesthetic repairs", "Emergency repairs", "Warranty repairs only", "Preventive repairs"],
+    "answer": 1
+  },
+  {
+    "id": "Q011",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "Which specific system does an HVAC technician troubleshoot and repair?",
+    "choices": ["Fire alarm systems", "HVAC system chillers", "CCTV systems", "Elevator systems"],
+    "answer": 1
+  },
+  {
+    "id": "Q012",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician use to perform technical calculations for optimum performance?",
+    "choices": ["HVAC codes and standards", "Manufacturer brochures", "Customer feedback forms", "Social media guidelines"],
+    "answer": 0
+  },
+  {
+    "id": "Q013",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician check after performing service and repair?",
+    "choices": ["Customer satisfaction only", "Performance of the system", "Invoice amount", "Weather forecast"],
+    "answer": 1
+  },
+  {
+    "id": "Q014",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician keep regarding all tasks performed?",
+    "choices": ["Financial records", "Daily logs and records", "Employee attendance", "Customer birthdays"],
+    "answer": 1
+  },
+  {
+    "id": "Q015",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "Which act must an HVAC technician comply with regarding safety?",
+    "choices": ["Companies Act", "Occupational Health and Safety Act", "Banking Regulation Act", "IT Act"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q016",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What is the primary function of the compressor in a refrigeration cycle?",
+    "choices": [
+      "To expand the refrigerant and lower its temperature",
+      "To compress the refrigerant into a high‑pressure gas",
+      "To absorb heat from the surrounding air",
+      "To control the flow of refrigerant to the evaporator"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q017",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "RAC stands for:",
+    "choices": ["Refrigeration and Air Conditioning", "Radiant Air Cooling", "Refrigerant Air Control", "Reactive Air Conditioning"],
+    "answer": 0
+  },
+  {
+    "id": "Q018",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What is the main working fluid in any refrigeration system?",
+    "choices": ["Water", "Refrigerant", "Oil", "Air"],
+    "answer": 1
+  },
+  {
+    "id": "Q019",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "One ton of refrigeration is the quantity of heat removed to freeze one ton of ice at 0°C in:",
+    "choices": ["12 hours", "24 hours", "36 hours", "48 hours"],
+    "answer": 1
+  },
+  {
+    "id": "Q020",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "Which component in a split AC contains the condenser coils and compressor?",
+    "choices": ["Indoor unit (IDU)", "Outdoor unit (ODU)", "Thermostat", "Vents"],
+    "answer": 1
+  },
+  {
+    "id": "Q021",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What is the purpose of a chiller in an HVAC system?",
+    "choices": ["To heat the building", "To remove heat through vapour compression or absorption", "To circulate fresh air", "To control humidity"],
+    "answer": 1
+  },
+  {
+    "id": "Q022",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "An Air Handling Unit (AHU) is used to:",
+    "choices": ["Only heat the air", "Only cool the air", "Re‑condition and circulate fresh air", "Store refrigerant"],
+    "answer": 2
+  },
+  {
+    "id": "Q023",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What is the function of a cooling tower?",
+    "choices": [
+      "To heat water",
+      "To lower the temperature of hot water by evaporation",
+      "To compress refrigerant",
+      "To circulate chilled water"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q024",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What type of pump is commonly used in HVAC systems?",
+    "choices": ["Centrifugal pumps", "Reciprocating pumps", "Diaphragm pumps", "Gear pumps"],
+    "answer": 0
+  },
+  {
+    "id": "Q025",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What does VAV stand for in HVAC systems?",
+    "choices": ["Variable Air Velocity", "Variable Air Volume", "Ventilation Air Valve", "Volume Adjustment Valve"],
+    "answer": 1
+  },
+  {
+    "id": "Q026",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "In a water‑cooled chiller, what is used to discharge heat to the atmosphere?",
+    "choices": ["Air Handling Unit", "Cooling Tower", "VAV Box", "Thermostat"],
+    "answer": 1
+  },
+  {
+    "id": "Q027",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What is the function of refrigerant lines in an HVAC system?",
+    "choices": [
+      "To carry electrical wiring",
+      "To carry refrigerant between the condensing unit and evaporator coil",
+      "To carry water for cooling",
+      "To carry exhaust air outside"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q028",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a component of a basic HVAC system?",
+    "choices": ["Thermostat", "Furnace", "Circuit breaker", "Evaporator coil"],
+    "answer": 2
+  },
+  {
+    "id": "Q029",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "What does IAQ stand for in HVAC terminology?",
+    "choices": ["Indoor Air Quality", "Indoor Air Quantity", "Integrated Air Quota", "Internal Air Query"],
+    "answer": 0
+  },
+  {
+    "id": "Q030",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.2,
+    "topic": "Basic Concepts of RAC and HVAC",
+    "difficulty": "easy",
+    "question": "In a split AC wiring, the live wire is connected to:",
+    "choices": ["The metal casing", "The neutral wire", "The selector switch", "The ground wire"],
+    "answer": 2
+  },
+
+  {
+    "id": "Q031",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "What is the unit of voltage?",
+    "choices": ["Ampere", "Ohm", "Volt", "Watt"],
+    "answer": 2
+  },
+  {
+    "id": "Q032",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "Ohm's law states that:",
+    "choices": ["I = V × R", "I = V / R", "V = I × R", "Both B and C"],
+    "answer": 3
+  },
+  {
+    "id": "Q033",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "Which type of current flows in only one direction?",
+    "choices": ["AC", "DC", "Both AC and DC", "Neither"],
+    "answer": 1
+  },
+  {
+    "id": "Q034",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "What is the SI unit of power?",
+    "choices": ["Volt", "Ampere", "Watt", "Ohm"],
+    "answer": 2
+  },
+  {
+    "id": "Q035",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "In a series circuit, the current flowing through each component is:",
+    "choices": ["Different", "The same", "Zero", "Infinite"],
+    "answer": 1
+  },
+  {
+    "id": "Q036",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "Which component is used to store electric charge?",
+    "choices": ["Resistor", "Capacitor", "Inductor", "Thermistor"],
+    "answer": 1
+  },
+  {
+    "id": "Q037",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "A transformer is used to:",
+    "choices": ["Store energy", "Increase or decrease AC voltage", "Convert AC to DC", "Measure resistance"],
+    "answer": 1
+  },
+  {
+    "id": "Q038",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "A diode allows current to flow in:",
+    "choices": ["One direction only", "Both directions", "Only alternating current", "Only high voltage"],
+    "answer": 0
+  },
+  {
+    "id": "Q039",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "Which component is used to limit or resist the flow of current?",
+    "choices": ["Capacitor", "Inductor", "Resistor", "Transistor"],
+    "answer": 2
+  },
+  {
+    "id": "Q040",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "What does an MCB (Miniature Circuit Breaker) do?",
+    "choices": ["Store electric charge", "Convert AC to DC", "Interrupt current flow when a fault is detected", "Amplify signals"],
+    "answer": 2
+  },
+  {
+    "id": "Q041",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "A relay is an electromechanical component used to:",
+    "choices": ["Store energy", "Control a circuit by opening and closing contacts", "Measure voltage", "Convert AC to DC"],
+    "answer": 1
+  },
+  {
+    "id": "Q042",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "Which motor is commonly used in air conditioners?",
+    "choices": ["Relay start motor", "Capacitor start motor", "Shaded pole motor", "Stepper motor"],
+    "answer": 1
+  },
+  {
+    "id": "Q043",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "What is the function of a thermistor?",
+    "choices": ["Store charge", "Amplify signals", "Sense temperature changes", "Switch circuits"],
+    "answer": 2
+  },
+  {
+    "id": "Q044",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "In a capacitor start motor, the capacitor is disconnected when the motor reaches approximately:",
+    "choices": ["50% of rated speed", "75% of rated speed", "90% of rated speed", "100% of rated speed"],
+    "answer": 1
+  },
+  {
+    "id": "Q045",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.3,
+    "topic": "Basics of Electricity",
+    "difficulty": "easy",
+    "question": "Which type of circuit has only one path for current to flow?",
+    "choices": ["Parallel circuit", "Series circuit", "Series‑parallel circuit", "Complex circuit"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q046",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Which tool is used to detect a gas leak around an appliance?",
+    "choices": ["Digital Multimeter", "Refrigerant Gas Detector", "Clamp Meter", "Torque Wrench"],
+    "answer": 1
+  },
+  {
+    "id": "Q047",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "What is the function of a digital multimeter?",
+    "choices": ["Measure only voltage", "Measure only current", "Measure voltage, current, and resistance", "Detect gas leaks"],
+    "answer": 2
+  },
+  {
+    "id": "Q048",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Which tool is used to cut copper or plastic pipes cleanly?",
+    "choices": ["Hacksaw", "Tube Cutter", "Cutting Knife", "Wire Stripper"],
+    "answer": 1
+  },
+  {
+    "id": "Q049",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "What does a clamp meter measure?",
+    "choices": ["Only voltage", "Only resistance", "Current without disconnecting the wire", "Gas leakage"],
+    "answer": 2
+  },
+  {
+    "id": "Q050",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Which of the following is a pneumatic tool?",
+    "choices": ["Screwdriver", "Pliers", "Drill Machine", "Spirit Level"],
+    "answer": 2
+  },
+  {
+    "id": "Q051",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "A torque wrench is used to:",
+    "choices": ["Measure temperature", "Measure torque in nuts or bolts", "Cut wires", "Detect gas leaks"],
+    "answer": 1
+  },
+  {
+    "id": "Q052",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Which tool is used to determine if a surface is horizontal or vertical?",
+    "choices": ["Measuring Tape", "Spirit Level Meter", "Torque Wrench", "Tester"],
+    "answer": 1
+  },
+  {
+    "id": "Q053",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Wire strippers are used to:",
+    "choices": ["Cut wires", "Remove insulation from wires", "Tighten bolts", "Measure voltage"],
+    "answer": 1
+  },
+  {
+    "id": "Q054",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "A heavy‑duty hammer is used for:",
+    "choices": ["Measuring angles", "Driving nails and breaking objects", "Testing electrical circuits", "Stripping wires"],
+    "answer": 1
+  },
+  {
+    "id": "Q055",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "What is a component box used for?",
+    "choices": ["Holding small spare parts like screws, nuts, and bolts", "Storing tools", "Measuring resistance", "Testing circuits"],
+    "answer": 0
+  },
+  {
+    "id": "Q056",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Which tool is used to check the presence of electric current in wires?",
+    "choices": ["Tester", "Torque Wrench", "Gas Detector", "Tube Cutter"],
+    "answer": 0
+  },
+  {
+    "id": "Q057",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "What is the purpose of a hacksaw?",
+    "choices": ["To cut plastic pipes or conduits", "To tighten bolts", "To measure length", "To detect gas leaks"],
+    "answer": 0
+  },
+  {
+    "id": "Q058",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "Pneumatic tools are powered by:",
+    "choices": ["Electricity", "Compressed air", "Hydraulic fluid", "Manual force"],
+    "answer": 1
+  },
+  {
+    "id": "Q059",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "An adjustable wrench is useful when:",
+    "choices": ["The nut/bolt head is a non‑standard size", "You need to cut a pipe", "You need to test voltage", "You need to strip wires"],
+    "answer": 0
+  },
+  {
+    "id": "Q060",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.4,
+    "topic": "Tools and Equipment",
+    "difficulty": "easy",
+    "question": "What should you do with damaged tools according to the handbook?",
+    "choices": ["Continue using them", "Store them with other tools", "Report to supervisor and repair or replace", "Sell them"],
+    "answer": 2
+  },
+
+  {
+    "id": "Q061",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What is a work requirement document?",
+    "choices": [
+      "A document containing the date, location, and details of a task",
+      "An invoice for services",
+      "A warranty certificate",
+      "A customer feedback form"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q062",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do if they identify a potential hazard?",
+    "choices": ["Ignore it", "Inform the supervisor", "Fix it themselves without informing", "Wait for the next shift"],
+    "answer": 1
+  },
+  {
+    "id": "Q063",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Which of the following helps ensure quality and timely completion of work?",
+    "choices": ["Delaying tasks", "Following the proposed plan of action", "Ignoring guidelines", "Working alone"],
+    "answer": 1
+  },
+  {
+    "id": "Q064",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Work ethics involve:",
+    "choices": ["Following only personal beliefs", "Differentiating right from wrong in work conduct", "Ignoring company policies", "Avoiding interaction with supervisors"],
+    "answer": 1
+  },
+  {
+    "id": "Q065",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Why is it important to resolve personnel issues?",
+    "choices": ["To reduce team effort", "To help staff concentrate on the job", "To avoid work", "To increase conflicts"],
+    "answer": 1
+  },
+  {
+    "id": "Q066",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What is the first step in handling a potential hazard systematically?",
+    "choices": ["Management of hazard", "Assessment of the cause", "Identification of cause", "Reporting the hazard"],
+    "answer": 2
+  },
+  {
+    "id": "Q067",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do when they are behind schedule?",
+    "choices": ["Hide the delay", "Issue formal notification to supervisor", "Stop working", "Blame other team members"],
+    "answer": 1
+  },
+  {
+    "id": "Q068",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a step in achieving quality and timely completion of work?",
+    "choices": ["Establish a compliance plan", "Build a communication strategy", "Ignore the review plan", "Test the product"],
+    "answer": 2
+  },
+  {
+    "id": "Q069",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "A code of conduct is important because it:",
+    "choices": ["Reduces productivity", "Sets constraints on equipment use", "Is optional", "Increases conflicts"],
+    "answer": 1
+  },
+  {
+    "id": "Q070",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What is the role of a supervisor in quality management?",
+    "choices": ["To ignore quality", "To share a plan of action for timelines and quality", "To assign blame", "To avoid communication"],
+    "answer": 1
+  },
+  {
+    "id": "Q071",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Which of the following is a work ethic principle?",
+    "choices": ["Deliver work as per standards and guidelines", "Ignore supervisor instructions", "Delay work intentionally", "Avoid reporting hazards"],
+    "answer": 0
+  },
+  {
+    "id": "Q072",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What is the purpose of a job sheet?",
+    "choices": ["To list employee salaries", "To provide work allocation from the supervisor", "To record customer complaints", "To design HVAC systems"],
+    "answer": 1
+  },
+  {
+    "id": "Q073",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Two‑way communication with supervisors helps in:",
+    "choices": ["Creating confusion", "Getting positive feedback and resolving issues", "Reducing productivity", "Increasing conflicts"],
+    "answer": 1
+  },
+  {
+    "id": "Q074",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do in case of a machine failure?",
+    "choices": ["Wait for it to fix itself", "Escalate the issue to the supervisor", "Ignore it", "Blame other workers"],
+    "answer": 1
+  },
+  {
+    "id": "Q075",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.1,
+    "topic": "Interacting with Supervisor",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a responsibility of an HVAC technician?",
+    "choices": ["Understanding work requirements", "Following the line of authority", "Managing company accounts", "Reporting shortages of components"],
+    "answer": 2
+  },
+
+  {
+    "id": "Q076",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "A healthy interpersonal relationship helps in:",
+    "choices": ["Creating conflicts", "Ensuring smooth workflow", "Reducing productivity", "Avoiding teamwork"],
+    "answer": 1
+  },
+  {
+    "id": "Q077",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "What is one way to resolve conflicts between co‑workers?",
+    "choices": ["Ignore the conflict", "Clarify roles and responsibilities", "Blame others", "Avoid communication"],
+    "answer": 1
+  },
+  {
+    "id": "Q078",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Informal communication in the workplace is often:",
+    "choices": ["Unimportant", "Dominant and helps resolve problems", "Always formal", "Never successful"],
+    "answer": 1
+  },
+  {
+    "id": "Q079",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Team coordination involves:",
+    "choices": ["Working alone", "Sharing the same vision and supporting each other", "Avoiding colleagues", "Competing with team members"],
+    "answer": 1
+  },
+  {
+    "id": "Q080",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Which of the following is a characteristic of effective teamwork?",
+    "choices": ["Two‑way communication", "Avoiding responsibility", "Ignoring varied views", "Lack of collaboration"],
+    "answer": 0
+  },
+  {
+    "id": "Q081",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Receiving equipment/tools from stores depends on:",
+    "choices": ["Ineffective communication", "Effective inter‑personal communication", "Ignoring instructions", "Working alone"],
+    "answer": 1
+  },
+  {
+    "id": "Q082",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "What is the primary objective of an HVAC technician regarding communication?",
+    "choices": ["To avoid speaking", "To understand the health of communication among co‑workers", "To only communicate with supervisors", "To ignore colleagues"],
+    "answer": 1
+  },
+  {
+    "id": "Q083",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Strategic planning using tools like calendars helps to:",
+    "choices": ["Increase conflicts", "Avoid frustration and stress from tight schedules", "Reduce communication", "Delay work"],
+    "answer": 1
+  },
+  {
+    "id": "Q084",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Assisting colleagues to resolve problems is a part of:",
+    "choices": ["Competition", "Healthy interpersonal relationships", "Avoiding work", "Isolation"],
+    "answer": 1
+  },
+  {
+    "id": "Q085",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a benefit of working in a team?",
+    "choices": ["Sharing the same vision", "Supporting each other", "Competing instead of collaborating", "Listening to others' suggestions"],
+    "answer": 2
+  },
+  {
+    "id": "Q086",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Active participation in a team ensures:",
+    "choices": ["Increased conflicts", "Better problem resolution", "Isolation", "Reduced productivity"],
+    "answer": 1
+  },
+  {
+    "id": "Q087",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do if they see colleagues arguing?",
+    "choices": ["Ignore the situation", "Escalate if the situation gets worse", "Take sides", "Join the argument"],
+    "answer": 1
+  },
+  {
+    "id": "Q088",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Why is a common goal important in a team?",
+    "choices": ["It creates confusion", "It helps everyone move in the same direction", "It encourages competition", "It reduces coordination"],
+    "answer": 1
+  },
+  {
+    "id": "Q089",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "Which of the following helps in resolving conflicts?",
+    "choices": ["Ignoring the problem", "Strategic planning", "Avoiding colleagues", "Blame others"],
+    "answer": 1
+  },
+  {
+    "id": "Q090",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.2,
+    "topic": "Interacting with Colleagues",
+    "difficulty": "easy",
+    "question": "What does owning roles and responsibilities in a team lead to?",
+    "choices": ["Confusion", "Better accountability", "Increased conflicts", "Reduced efficiency"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q091",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What is the first step in handling a customer complaint?",
+    "choices": ["Escalate directly", "First contact the customer", "Blame the company", "Ignore the complaint"],
+    "answer": 1
+  },
+  {
+    "id": "Q092",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do if a customer query cannot be resolved at their level?",
+    "choices": ["End the call", "Escalate to supervisor", "Provide wrong information", "Ignore the query"],
+    "answer": 1
+  },
+  {
+    "id": "Q093",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What is warranty coverage?",
+    "choices": ["An agreement for free repair service until a mentioned date", "A product return policy", "An insurance policy", "A discount coupon"],
+    "answer": 0
+  },
+  {
+    "id": "Q094",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "When suggesting a solution to a customer, the HVAC technician should:",
+    "choices": ["Explain all possible solutions and costs involved", "Only provide one solution", "Hide the costs", "Make the decision without customer approval"],
+    "answer": 0
+  },
+  {
+    "id": "Q095",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "Why is customer feedback important?",
+    "choices": ["To improve organizational functioning", "To increase complaints", "To avoid customer interaction", "To reduce service quality"],
+    "answer": 0
+  },
+  {
+    "id": "Q096",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What is a key characteristic of an HVAC technician dealing with customers?",
+    "choices": ["Rudeness", "Integrity and good interpersonal skills", "Tardiness", "Unprofessional appearance"],
+    "answer": 1
+  },
+  {
+    "id": "Q097",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do before visiting a customer site?",
+    "choices": ["Ignore the complaint", "Call the customer and understand the problem", "Go without preparation", "Send a junior technician"],
+    "answer": 1
+  },
+  {
+    "id": "Q098",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a step in offering a solution to a customer?",
+    "choices": ["Explain the time for fixing the issue", "Explain costs involved", "Seek customer approval", "Make decisions without consulting the customer"],
+    "answer": 3
+  },
+  {
+    "id": "Q099",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What is the purpose of a customer feedback form?",
+    "choices": ["To increase the company's profits", "To understand the customer's experience and improve service", "To avoid complaints", "To sell more products"],
+    "answer": 1
+  },
+  {
+    "id": "Q100",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do if they cannot resolve a customer's issue?",
+    "choices": ["Escalate the issue to a supervisor or manager", "Ignore the customer", "Provide wrong information", "Blame the customer"],
+    "answer": 0
+  },
+  {
+    "id": "Q101",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of educating the customer?",
+    "choices": ["Ignoring customer questions", "Informing about warranty and maintenance", "Providing false information", "Hiding the invoice"],
+    "answer": 1
+  },
+  {
+    "id": "Q102",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do when a customer has a complaint?",
+    "choices": ["Avoid the customer", "Listen, understand, and try to resolve the issue", "Refer the customer to another company", "Ignore the complaint"],
+    "answer": 1
+  },
+  {
+    "id": "Q103",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What is the purpose of communicating in the local language?",
+    "choices": ["To confuse the customer", "To build rapport and better understand the customer", "To avoid speaking", "To increase costs"],
+    "answer": 1
+  },
+  {
+    "id": "Q104",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "What is the final step in the complaint resolution process?",
+    "choices": ["First contact", "Escalation", "Referred to Solutions team", "Further options or mediation"],
+    "answer": 3
+  },
+  {
+    "id": "Q105",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.3,
+    "topic": "Identify Solutions and Suggest to Client",
+    "difficulty": "easy",
+    "question": "Why should an HVAC technician show integrity and trustworthiness?",
+    "choices": ["To avoid work", "To build strong customer relationships", "To increase complaints", "To reduce service quality"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q106",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What is the first step in achieving zero defects?",
+    "choices": ["Do it right the first time", "Ignore quality", "Delay the work", "Blame others"],
+    "answer": 0
+  },
+  {
+    "id": "Q107",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do to meet targets?",
+    "choices": ["Be clear about goals and visions of the organization", "Avoid following guidelines", "Work without a plan", "Ignore deadlines"],
+    "answer": 0
+  },
+  {
+    "id": "Q108",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "Which of the following helps in achieving quality work?",
+    "choices": ["Following guidelines and standards", "Ignoring instructions", "Working without supervision", "Delaying tasks"],
+    "answer": 0
+  },
+  {
+    "id": "Q109",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do in case of an emergency?",
+    "choices": ["Ignore the situation", "Inform the supervisor", "Stop working", "Leave the site"],
+    "answer": 1
+  },
+  {
+    "id": "Q110",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What is the importance of planning work for the day?",
+    "choices": ["To reduce efficiency", "To ensure organized and timely completion", "To increase stress", "To avoid work"],
+    "answer": 1
+  },
+  {
+    "id": "Q111",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "Which of the following is a way to achieve zero defects?",
+    "choices": ["Use PPE to avoid ESD", "Ignore safety procedures", "Avoid monitoring progress", "Skip process guidelines"],
+    "answer": 0
+  },
+  {
+    "id": "Q112",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do to stay updated?",
+    "choices": ["Ignore new developments", "Keep up to date with new products and developments", "Avoid learning", "Stick to old methods"],
+    "answer": 1
+  },
+  {
+    "id": "Q113",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What is a supervisor's responsibility?",
+    "choices": ["Only planning tasks", "Planning tasks, getting work done, and organizing", "Avoiding communication", "Ignoring employee issues"],
+    "answer": 1
+  },
+  {
+    "id": "Q114",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do when a task is behind schedule?",
+    "choices": ["Blame others", "Issue formal notification to the supervisor", "Ignore the delay", "Stop working"],
+    "answer": 1
+  },
+  {
+    "id": "Q115",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "Which of the following is a key point to remember for meeting targets?",
+    "choices": ["Avoid planning", "Set goals and work towards them", "Ignore quality", "Work without a schedule"],
+    "answer": 1
+  },
+  {
+    "id": "Q116",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What is the purpose of creating a review plan?",
+    "choices": ["To ignore progress", "To evaluate and ensure quality", "To increase delays", "To avoid work"],
+    "answer": 1
+  },
+  {
+    "id": "Q117",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do about process disruptions?",
+    "choices": ["Ignore them", "Identify and quantify the exact causes", "Blame others", "Delay resolution"],
+    "answer": 1
+  },
+  {
+    "id": "Q118",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "Why is it important to follow the chain of command?",
+    "choices": ["To reduce communication", "To ensure proper reporting and authority", "To avoid responsibilities", "To increase confusion"],
+    "answer": 1
+  },
+  {
+    "id": "Q119",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "What is the benefit of planning and organizing work?",
+    "choices": ["It reduces efficiency", "It ensures timely and quality work", "It increases stress", "It leads to delays"],
+    "answer": 1
+  },
+  {
+    "id": "Q120",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.4,
+    "topic": "Plan Work Schedule",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a measure to achieve zero defects?",
+    "choices": ["Do it right the first time", "Follow safety procedures", "Ignore continuous improvement", "Monitor and evaluate progress"],
+    "answer": 2
+  },
+
+  {
+    "id": "Q121",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What does the symbol for a condenser represent in HVAC plans?",
+    "choices": ["A device to reduce engine noise", "An apparatus for condensing vapour into liquid", "A device to measure humidity", "A type of ductwork"],
+    "answer": 1
+  },
+  {
+    "id": "Q122",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the symbol for a pump in HVAC drawings?",
+    "choices": ["A device to remove impurities", "A mechanical device to move liquids", "A device to measure temperature", "A type of junction"],
+    "answer": 1
+  },
+  {
+    "id": "Q123",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "The VAV box symbol represents:",
+    "choices": ["Variable Air Volume box", "Vertical Air Vent", "Voltage Adjustment Valve", "Ventilation Air Valve"],
+    "answer": 0
+  },
+  {
+    "id": "Q124",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What does the humidity sensor symbol look like?",
+    "choices": ["A device to measure temperature", "A device to measure humidity", "A device to count time", "A device to detect air quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q125",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "In HVAC layouts, what does a Y junction indicate?",
+    "choices": ["A bend in the duct", "A junction with 2 arms of equal size", "A transition from one state to another", "A variable air volume box"],
+    "answer": 1
+  },
+  {
+    "id": "Q126",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the purpose of a silencer in an HVAC system?",
+    "choices": ["To reduce engine noise", "To remove impurities", "To measure humidity", "To control air volume"],
+    "answer": 0
+  },
+  {
+    "id": "Q127",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What does the drier symbol represent in HVAC drawings?",
+    "choices": ["A device to accelerate drying or extract moisture", "A device to remove impurities", "A type of ductwork", "A temperature sensor"],
+    "answer": 0
+  },
+  {
+    "id": "Q128",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the function of a transition in ductwork?",
+    "choices": ["To bend the duct", "To change from one state or condition to another", "To reduce air flow", "To connect two pipes"],
+    "answer": 1
+  },
+  {
+    "id": "Q129",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What does the air quality sensor symbol represent?",
+    "choices": ["A device to measure temperature", "A device to measure humidity", "A device to detect air quality", "A device to count time"],
+    "answer": 2
+  },
+  {
+    "id": "Q130",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the purpose of a filter in HVAC systems?",
+    "choices": ["To remove impurities from air or liquid", "To reduce engine noise", "To measure humidity", "To control temperature"],
+    "answer": 0
+  },
+  {
+    "id": "Q131",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What does the pipeline symbol represent?",
+    "choices": ["A long pipe for transporting gas, oil, etc.", "A device to remove impurities", "A type of ductwork", "A temperature sensor"],
+    "answer": 0
+  },
+  {
+    "id": "Q132",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the purpose of a nozzle in an HVAC system?",
+    "choices": ["To control the direction or velocity of gas or liquid flow", "To remove impurities", "To measure temperature", "To reduce engine noise"],
+    "answer": 0
+  },
+  {
+    "id": "Q133",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What does the timer symbol represent in HVAC plans?",
+    "choices": ["A device to measure temperature", "A device to measure humidity", "A device to count time", "A device to detect air quality"],
+    "answer": 2
+  },
+  {
+    "id": "Q134",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the function of a VAV box?",
+    "choices": ["To control the volume of air in different sections", "To remove impurities", "To measure humidity", "To reduce noise"],
+    "answer": 0
+  },
+  {
+    "id": "Q135",
+    "module": "Pre‑requisites of Work",
+    "unit": 2.5,
+    "topic": "Analyse Drawings and Layouts",
+    "difficulty": "easy",
+    "question": "What is the purpose of a chiller in HVAC systems?",
+    "choices": ["To remove heat from a liquid", "To measure air quality", "To control humidity", "To circulate air"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q136",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "Regular servicing of an HVAC system helps in:",
+    "choices": ["Reducing efficiency", "Increasing performance and life‑span", "Increasing breakdowns", "Reducing air quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q137",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a task in HVAC maintenance?",
+    "choices": ["Visual inspection", "Checking refrigerant levels", "Designing new HVAC systems", "Cleaning ducts and vents"],
+    "answer": 2
+  },
+  {
+    "id": "Q138",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "How often should a cooling tower be cleaned and chlorinated according to OSHA?",
+    "choices": ["Once a year", "Twice a year", "Once a month", "Every week"],
+    "answer": 1
+  },
+  {
+    "id": "Q139",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What does water treatment in a cooling tower control?",
+    "choices": ["Only temperature", "Biological contamination, scale, and corrosion", "Only air flow", "Only pressure"],
+    "answer": 1
+  },
+  {
+    "id": "Q140",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What is the benefit of raising chilled‑water temperature?",
+    "choices": ["Reduces chiller efficiency", "Improves chiller efficiency", "Increases power consumption", "Reduces air quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q141",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What should be checked on a chiller to detect low‑level or high‑level refrigerant conditions?",
+    "choices": ["Sight‑glass and temperature readings", "Only the compressor", "Only the fan", "Only the pipes"],
+    "answer": 0
+  },
+  {
+    "id": "Q142",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What is the purpose of a daily log for a chiller?",
+    "choices": ["To track employee attendance", "To record temperatures, fluid levels, and pressures", "To design new systems", "To track customer complaints"],
+    "answer": 1
+  },
+  {
+    "id": "Q143",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What can cause inadequate airflow through a cooling tower?",
+    "choices": ["Proper alignment", "Debris at inlets/outlets", "Clean filters", "Correct fan pitch"],
+    "answer": 1
+  },
+  {
+    "id": "Q144",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "Which component of a cooling tower should be inspected for scale build‑up?",
+    "choices": ["Drift eliminators and fill", "Only the pump", "Only the motor", "Only the fan"],
+    "answer": 0
+  },
+  {
+    "id": "Q145",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What is the purpose of purging air from refrigerant in a chiller?",
+    "choices": ["To increase pressure", "To reduce compressor work", "To increase refrigerant level", "To reduce cooling capacity"],
+    "answer": 1
+  },
+  {
+    "id": "Q146",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "How often should a chiller's evaporator and condenser tubes be cleaned?",
+    "choices": ["Monthly", "Quarterly", "Annually", "Bi‑annually"],
+    "answer": 2
+  },
+  {
+    "id": "Q147",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What is the recommended frequency for checking vibration in cooling tower motors and fans?",
+    "choices": ["Daily", "Weekly", "Monthly", "Annually"],
+    "answer": 1
+  },
+  {
+    "id": "Q148",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What does a well‑maintained HVAC system improve?",
+    "choices": ["Only temperature", "Air circulation and quality", "Only humidity", "Only noise levels"],
+    "answer": 1
+  },
+  {
+    "id": "Q149",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "Why should scale deposits be prevented in a cooling tower?",
+    "choices": ["To increase temperature", "To prevent obstruction of heat transfer", "To increase water flow", "To reduce air flow"],
+    "answer": 1
+  },
+  {
+    "id": "Q150",
+    "module": "Service of an HVAC System",
+    "unit": 3.1,
+    "topic": "Service and Maintenance",
+    "difficulty": "easy",
+    "question": "What is the benefit of operating multiple chillers?",
+    "choices": ["Increased energy consumption", "Meeting building loads efficiently", "Increased breakdowns", "Reduced cooling capacity"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q151",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is a chemical fogger used for?",
+    "choices": ["Cleaning ducts", "Disinfectant application", "Removing dust", "Testing electrical circuits"],
+    "answer": 1
+  },
+  {
+    "id": "Q152",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What does a duct cleaning vacuum have?",
+    "choices": ["A single‑direction brush", "A two‑direction rotating brush", "A chemical spray", "A heating element"],
+    "answer": 1
+  },
+  {
+    "id": "Q153",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is the purpose of disinfectant and low toxicity duct fungicide?",
+    "choices": ["To increase air flow", "To kill mold, fungi, and bacteria", "To test for leaks", "To measure temperature"],
+    "answer": 1
+  },
+  {
+    "id": "Q154",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What type of duct cleaner is used for round, rectangular, or spiral ducts?",
+    "choices": ["Chemical fogger", "Rotatory duct cleaner", "Vacuum cleaner", "Spirit level"],
+    "answer": 1
+  },
+  {
+    "id": "Q155",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What should be done before cleaning the air ducts?",
+    "choices": ["Turn on the fan", "Turn off power connected to the system", "Remove filters", "Cover supply registers"],
+    "answer": 1
+  },
+  {
+    "id": "Q156",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is the purpose of covering supply registers during duct cleaning?",
+    "choices": ["To increase air flow", "To prevent dust from spreading", "To test the system", "To measure temperature"],
+    "answer": 1
+  },
+  {
+    "id": "Q157",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "Which cleaning equipment is used to clean 4‑5 filters at one time?",
+    "choices": ["Chemical fogger", "Rotatory duct cleaner", "Specialised AHU filter cleaning machine", "Duct cleaning vacuum"],
+    "answer": 2
+  },
+  {
+    "id": "Q158",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What should be lubricated during AHU maintenance?",
+    "choices": ["Only the fan", "Motor, blower bearing, and pumps", "Only the filters", "Only the coils"],
+    "answer": 1
+  },
+  {
+    "id": "Q159",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is used to straighten AHU coils?",
+    "choices": ["A hammer", "A fine comb", "A screwdriver", "A wrench"],
+    "answer": 1
+  },
+  {
+    "id": "Q160",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "During AHU maintenance, what should be inspected for damage or loose connections?",
+    "choices": ["Only the motor belt", "Wiring and electric connections", "Only the filters", "Only the coils"],
+    "answer": 1
+  },
+  {
+    "id": "Q161",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is the first step in cleaning ducts and vents?",
+    "choices": ["Turn off power", "Clean blower compartment", "Cover supply registers", "Vacuum clean air ducts"],
+    "answer": 2
+  },
+  {
+    "id": "Q162",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is the purpose of a rotatory duct cleaner?",
+    "choices": ["To spray chemicals", "To remove harmful deposits in ducts", "To measure airflow", "To test electrical circuits"],
+    "answer": 1
+  },
+  {
+    "id": "Q163",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What should be done if an AHU filter is clogged?",
+    "choices": ["Ignore it", "Clean or replace it", "Cover it", "Remove it permanently"],
+    "answer": 1
+  },
+  {
+    "id": "Q164",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What is the benefit of using a duct cleaning vacuum?",
+    "choices": ["It uses only one motor", "It safely removes debris using a rotating brush", "It sprays disinfectant", "It measures pressure"],
+    "answer": 1
+  },
+  {
+    "id": "Q165",
+    "module": "Service of an HVAC System",
+    "unit": 3.2,
+    "topic": "Cleaning Equipment",
+    "difficulty": "easy",
+    "question": "What should be cleaned after covering supply registers?",
+    "choices": ["Only return air registers", "Supply registers and return air registers", "Only the blower", "Only the filters"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q166",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What is the purpose of a pressure test for piping systems?",
+    "choices": ["To measure temperature", "To detect leakage and avoid failure", "To test electrical connections", "To check air quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q167",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What is the initial pressure used when air‑pumping a system during a pressure test?",
+    "choices": ["60 psi", "125 psi", "30 psi", "100 psi"],
+    "answer": 0
+  },
+  {
+    "id": "Q168",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "How long should a system stand after pumping to 60 psi during a pressure test?",
+    "choices": ["5 minutes", "15 minutes", "30 minutes", "60 minutes"],
+    "answer": 1
+  },
+  {
+    "id": "Q169",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What is the recommended pressure for testing individual coils?",
+    "choices": ["60 psi", "125 psi", "100 psi", "150 psi"],
+    "answer": 1
+  },
+  {
+    "id": "Q170",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What is the first step in checking process pipes?",
+    "choices": ["Start increasing pressure", "Air pump slowly", "Ensure all piping loops are closed", "Pressurize individual coils"],
+    "answer": 2
+  },
+  {
+    "id": "Q171",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What should be recorded after a pressure test?",
+    "choices": ["Only the date", "Temperature readings", "Pressure test results in a specified format", "Air quality measurements"],
+    "answer": 2
+  },
+  {
+    "id": "Q172",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "Why is it important to check pumps for damage?",
+    "choices": ["To increase pump speed", "To keep the system running efficiently and prevent failure", "To reduce water flow", "To increase energy consumption"],
+    "answer": 1
+  },
+  {
+    "id": "Q173",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What should be included in a pump maintenance schedule?",
+    "choices": ["Only the frequency", "Frequency and time to minimize impact on building occupants", "Only the date", "Only the name of the technician"],
+    "answer": 1
+  },
+  {
+    "id": "Q174",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What should be checked when a pump is running?",
+    "choices": ["Only temperature", "Leakage, unusual sound, vibration, and odour", "Only voltage", "Only pressure"],
+    "answer": 1
+  },
+  {
+    "id": "Q175",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What mechanical checks should be performed on pumps?",
+    "choices": ["Only electrical checks", "Mounting points, leakage, loose connections, and rust", "Only motor speed", "Only temperature"],
+    "answer": 1
+  },
+  {
+    "id": "Q176",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What should be done if a pump bearing is damaged?",
+    "choices": ["Ignore it", "Lubricate or replace it", "Only lubricate", "Only replace"],
+    "answer": 1
+  },
+  {
+    "id": "Q177",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What is a common problem with a heat pump in winter?",
+    "choices": ["Overheating", "Icing up", "Leakage", "High voltage"],
+    "answer": 1
+  },
+  {
+    "id": "Q178",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What should be checked if a heat pump is icing up?",
+    "choices": ["Only the fan", "Fan motor, refrigerant, blockage, and water leakage", "Only the thermostat", "Only the compressor"],
+    "answer": 1
+  },
+  {
+    "id": "Q179",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What is the purpose of creating a maintenance log for pumps?",
+    "choices": ["To record employee details", "To track maintenance activities and observations", "To design new pumps", "To test water quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q180",
+    "module": "Service of an HVAC System",
+    "unit": 3.3,
+    "topic": "Check Water Pipelines and Pumps",
+    "difficulty": "easy",
+    "question": "What happens if pump bearings are over‑greased?",
+    "choices": ["Improved performance", "Damage to the bearing", "No effect", "Reduced noise"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q181",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is the function of a PLC in an HVAC control panel?",
+    "choices": ["To provide power to relays", "To adjust temperature by triggering relays", "To break current flow", "To sense humidity"],
+    "answer": 1
+  },
+  {
+    "id": "Q182",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What does the 24 VAC transformer provide power to?",
+    "choices": ["Analog input modules", "Relay modules", "Touch screen", "Sensors"],
+    "answer": 1
+  },
+  {
+    "id": "Q183",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is the purpose of an MCB in a control panel?",
+    "choices": ["To convert AC to DC", "To interrupt current flow when a fault is detected", "To amplify signals", "To store energy"],
+    "answer": 1
+  },
+  {
+    "id": "Q184",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is a common cause of MCB tripping?",
+    "choices": ["Low voltage", "Short circuited current", "Open circuit", "High resistance"],
+    "answer": 1
+  },
+  {
+    "id": "Q185",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What should be checked if a relay is not working?",
+    "choices": ["Only the coil", "Power supply, continuity, and wiring", "Only the fuse", "Only the switch"],
+    "answer": 1
+  },
+  {
+    "id": "Q186",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is the first step in repairing a thermostat?",
+    "choices": ["Test with multimeter", "Remove the grill and control panel", "Tag the bulb location", "Replace the thermostat"],
+    "answer": 1
+  },
+  {
+    "id": "Q187",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "How is a thermostat tested using a multimeter?",
+    "choices": ["By measuring voltage", "By clipping probes to terminals and turning to coldest setting", "By measuring resistance", "By checking continuity"],
+    "answer": 1
+  },
+  {
+    "id": "Q188",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "If a thermostat meter reading is higher than zero, what should be done?",
+    "choices": ["It is functioning properly", "It must be replaced", "It needs lubrication", "It needs calibration"],
+    "answer": 1
+  },
+  {
+    "id": "Q189",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is a common fault in a switch disconnect or fuse?",
+    "choices": ["Over voltage", "Over current and short circuit", "Open circuit", "Low resistance"],
+    "answer": 1
+  },
+  {
+    "id": "Q190",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What should be done if a fuse is blown?",
+    "choices": ["Ignore it", "Replace with same rated current and voltage", "Replace with higher rating", "By‑pass it"],
+    "answer": 1
+  },
+  {
+    "id": "Q191",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is the purpose of the terminal block assembly in a control panel?",
+    "choices": ["To connect PLC modules to ventilation equipment", "To provide power", "To sense temperature", "To interrupt current"],
+    "answer": 0
+  },
+  {
+    "id": "Q192",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is the function of the 24 VDC power supply?",
+    "choices": ["To provide power to relay modules", "To provide power to analog modules, sensors, and touch screen", "To supply power to the compressor", "To control the fan"],
+    "answer": 1
+  },
+  {
+    "id": "Q193",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What should be done after rectifying the cause of MCB tripping?",
+    "choices": ["Replace the MCB", "Switch on the MCB and check", "Ignore the MCB", "Remove the MCB"],
+    "answer": 1
+  },
+  {
+    "id": "Q194",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "Where is the thermostat sensing bulb located?",
+    "choices": ["In the control panel", "In the area of the evaporator coil", "On the compressor", "On the condenser"],
+    "answer": 1
+  },
+  {
+    "id": "Q195",
+    "module": "Service of an HVAC System",
+    "unit": 3.4,
+    "topic": "Fix Faults in Electrical Control Panels",
+    "difficulty": "easy",
+    "question": "What is the role of a thermostat in an HVAC system?",
+    "choices": ["To sense temperature and control the system", "To provide power", "To circulate air", "To detect gas leaks"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q196",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What is the purpose of a maintenance schedule?",
+    "choices": ["To increase breakdowns", "To keep records of servicing and preventive maintenance", "To avoid work", "To reduce efficiency"],
+    "answer": 1
+  },
+  {
+    "id": "Q197",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do when software expires?",
+    "choices": ["Ignore it", "Install new one with proper licence agreement", "Continue using it", "Delete it"],
+    "answer": 1
+  },
+  {
+    "id": "Q198",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What is important regarding hardware components?",
+    "choices": ["Ignore compatibility", "Assess condition and upgrade if required", "Never replace", "Avoid maintenance"],
+    "answer": 1
+  },
+  {
+    "id": "Q199",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should be communicated to the customer if warranty is about to expire?",
+    "choices": ["Ignore it", "Ask if they want extended warranty", "Replace the component", "Stop service"],
+    "answer": 1
+  },
+  {
+    "id": "Q200",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "Why is documentation important?",
+    "choices": ["To increase complaints", "To ensure quick resolutions and record keeping", "To avoid work", "To reduce quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q201",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should be documented regarding complaints?",
+    "choices": ["Only the complaint", "The complaint and symptoms", "Only the solution", "Only the customer name"],
+    "answer": 1
+  },
+  {
+    "id": "Q202",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What is a maintenance requirement form used for?",
+    "choices": ["To track employee attendance", "To record maintenance needs and schedules", "To design new systems", "To test water quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q203",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should be included in service records?",
+    "choices": ["Only the date", "Repairs, replacements, inspections, and maintenance agreements", "Only the cost", "Only the customer name"],
+    "answer": 1
+  },
+  {
+    "id": "Q204",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What is the benefit of documenting common problems?",
+    "choices": ["It helps resolve issues quickly using time‑tested processes", "It increases complaints", "It reduces efficiency", "It is not useful"],
+    "answer": 0
+  },
+  {
+    "id": "Q205",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do with maintenance service agreements?",
+    "choices": ["Ignore them", "Keep records of routine inspections and renewals", "Avoid them", "Delete them"],
+    "answer": 1
+  },
+  {
+    "id": "Q206",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "Why is it important to document ticket escalation processes?",
+    "choices": ["To delay resolution", "To ensure tickets are escalated promptly", "To avoid work", "To increase complaints"],
+    "answer": 1
+  },
+  {
+    "id": "Q207",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should be recorded regarding safety?",
+    "choices": ["Only customer complaints", "Safety and test certificates", "Only the date", "Only the technician name"],
+    "answer": 1
+  },
+  {
+    "id": "Q208",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What is the purpose of documenting every complaint?",
+    "choices": ["To ignore issues", "To probe symptoms and resolve issues efficiently", "To increase workload", "To avoid customer interaction"],
+    "answer": 1
+  },
+  {
+    "id": "Q209",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What is a key aspect of documentation?",
+    "choices": ["It is a one‑time effort", "It should be an ongoing process", "It is not necessary", "It increases complaints"],
+    "answer": 1
+  },
+  {
+    "id": "Q210",
+    "module": "Service of an HVAC System",
+    "unit": 3.5,
+    "topic": "Maintenance and Service Records",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do with records of items added or removed?",
+    "choices": ["Ignore them", "Maintain accurate records", "Discard them", "Only record major items"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q211",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What is the first step when scheduling a visit to a customer's premises?",
+    "choices": ["Call the customer to confirm visit time", "Check requests or complaints", "Carry tools accordingly", "Make a route plan"],
+    "answer": 1
+  },
+  {
+    "id": "Q212",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do when on a call with a customer?",
+    "choices": ["Only confirm address", "Enquire about symptoms and problem details", "Only discuss payment", "Only schedule a visit"],
+    "answer": 1
+  },
+  {
+    "id": "Q213",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "How should an HVAC technician interact with a customer at their premises?",
+    "choices": ["Be rude", "Smile, greet, listen, and offer the best solution", "Ignore the customer", "Blame the customer"],
+    "answer": 1
+  },
+  {
+    "id": "Q214",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What is the first step in identifying a fault?",
+    "choices": ["Inspect all parts", "Interact with the customer to identify the fault", "Switch off the machine", "Carry out tests"],
+    "answer": 1
+  },
+  {
+    "id": "Q215",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What should be done before inspecting and repairing a machine?",
+    "choices": ["Start the machine", "Switch off the machine", "Inform the customer", "Check tools"],
+    "answer": 1
+  },
+  {
+    "id": "Q216",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What is a key step in offering a solution to the customer?",
+    "choices": ["Hide the costs", "Explain the time, method, and costs involved", "Make decisions without approval", "Ignore the customer"],
+    "answer": 1
+  },
+  {
+    "id": "Q217",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "After repairs, what should be checked?",
+    "choices": ["Only the temperature", "All connections, leaks, airflow, and temperature", "Only the compressor", "Only the thermostat"],
+    "answer": 1
+  },
+  {
+    "id": "Q218",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do if a problem can be resolved over the phone?",
+    "choices": ["Still visit the site", "Resolve it and avoid a field trip", "Ignore the customer", "Escalate without trying"],
+    "answer": 1
+  },
+  {
+    "id": "Q219",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What is the purpose of asking about the year of purchase and warranty?",
+    "choices": ["To increase cost", "To understand the equipment history", "To avoid work", "To delay the service"],
+    "answer": 1
+  },
+  {
+    "id": "Q220",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do to achieve 100% customer satisfaction?",
+    "choices": ["Provide poor service", "Ensure service is provided as promised", "Ignore feedback", "Delay work"],
+    "answer": 1
+  },
+  {
+    "id": "Q221",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What is the importance of listening to the customer?",
+    "choices": ["To ignore their concerns", "To understand the problem and provide the right solution", "To increase complaints", "To reduce service quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q222",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What tests should be carried out to inspect faults?",
+    "choices": ["Only voltage test", "Volt‑ampere, continuity, and power supply tests", "Only continuity test", "Only visual inspection"],
+    "answer": 1
+  },
+  {
+    "id": "Q223",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What should be done after identifying a fault?",
+    "choices": ["Ignore the fault", "Communicate with the supervisor and take action", "Blame others", "Delay repair"],
+    "answer": 1
+  },
+  {
+    "id": "Q224",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What should be included in the invoice after completing a task?",
+    "choices": ["Only the total cost", "Details of service and costs involved", "Only the date", "Only the technician name"],
+    "answer": 1
+  },
+  {
+    "id": "Q225",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.1,
+    "topic": "Complaint Handling",
+    "difficulty": "easy",
+    "question": "What is the benefit of taking customer feedback?",
+    "choices": ["To increase complaints", "To improve service quality", "To avoid work", "To reduce efficiency"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q226",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the first step in troubleshooting?",
+    "choices": ["Restoration of product", "Verification of solution", "Identification of symptoms", "Elimination of causes"],
+    "answer": 2
+  },
+  {
+    "id": "Q227",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is a common cause of unexpected rise in cooling tower temperature?",
+    "choices": ["Water flow above recommended level", "Less air flow", "Faulty controller", "Blockage in solenoid"],
+    "answer": 1
+  },
+  {
+    "id": "Q228",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What should be checked if there is excessive vibration or noise in a cooling tower?",
+    "choices": ["Water flow", "Motor bearing and fan mount", "Controller", "Filter"],
+    "answer": 1
+  },
+  {
+    "id": "Q229",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is a common cause of high pressure discharge in water‑cooled chillers?",
+    "choices": ["Low refrigerant", "Dirty filter", "Bad water treatment", "Faulty thermostat"],
+    "answer": 2
+  },
+  {
+    "id": "Q230",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the solution for excess frost in a refrigerator?",
+    "choices": ["Replace the compressor", "Check continuity of components and replace defective ones", "Refill refrigerant", "Clean condenser"],
+    "answer": 1
+  },
+  {
+    "id": "Q231",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the first step in repairing a fan motor?",
+    "choices": ["Replace the motor", "Open the cabinet and clean dirt", "Check with multimeter", "Tighten screws"],
+    "answer": 1
+  },
+  {
+    "id": "Q232",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the purpose of flushing a refrigeration system?",
+    "choices": ["To remove refrigerant", "To clean contaminants like sludge and acids", "To test for leaks", "To recharge refrigerant"],
+    "answer": 1
+  },
+  {
+    "id": "Q233",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "Which method is used for leak detection in large refrigeration systems?",
+    "choices": ["Soap solution", "Ultra‑violet lamp", "Halide torch", "Electronic detector"],
+    "answer": 1
+  },
+  {
+    "id": "Q234",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the purpose of evacuation in a refrigeration system?",
+    "choices": ["To add refrigerant", "To remove vapours and non‑condensable gases", "To test for leaks", "To clean the system"],
+    "answer": 1
+  },
+  {
+    "id": "Q235",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the most common cause of contamination in a refrigeration system?",
+    "choices": ["Water", "Compressor failure", "Dust", "Low refrigerant"],
+    "answer": 1
+  },
+  {
+    "id": "Q236",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the purpose of charging a system?",
+    "choices": ["To remove refrigerant", "To add the proper quantity of refrigerant", "To clean the system", "To test for leaks"],
+    "answer": 1
+  },
+  {
+    "id": "Q237",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the maximum resistance reading for a properly functioning fan motor?",
+    "choices": ["0 ohms", "3‑30 ohms", "100 ohms", "Infinite"],
+    "answer": 1
+  },
+  {
+    "id": "Q238",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the first step in vapour recovery of refrigerant?",
+    "choices": ["Close valves on manifold set", "Switch off the system and recovery machine", "Open liquid and vapour valve", "Start recovery system"],
+    "answer": 1
+  },
+  {
+    "id": "Q239",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the cause of a fan running even when the refrigerator door is open?",
+    "choices": ["Defective thermostat", "Defective door switch", "Low refrigerant", "Dirty condenser"],
+    "answer": 1
+  },
+  {
+    "id": "Q240",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.2,
+    "topic": "Identify Faulty Parts and Troubleshooting",
+    "difficulty": "easy",
+    "question": "What is the solution for insufficient cooling in a chiller?",
+    "choices": ["Replace compressor", "Check for leakage and clean filter", "Increase water flow", "Adjust thermostat"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q241",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the purpose of visual inspection in electrical systems?",
+    "choices": ["To test voltage", "To ensure the system is safe to test", "To measure resistance", "To check current"],
+    "answer": 1
+  },
+  {
+    "id": "Q242",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the first step in charging a circuit?",
+    "choices": ["Switch on all circuits", "Connect the main supply line", "Apply load", "Check earthing"],
+    "answer": 1
+  },
+  {
+    "id": "Q243",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the purpose of a neon circuit tester?",
+    "choices": ["To measure resistance", "To test if a circuit is energized", "To measure current", "To detect gas leaks"],
+    "answer": 1
+  },
+  {
+    "id": "Q244",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the purpose of a continuity tester?",
+    "choices": ["To measure voltage", "To trace wiring and test switches", "To measure current", "To detect gas leaks"],
+    "answer": 1
+  },
+  {
+    "id": "Q245",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is a dead test?",
+    "choices": ["A test performed when circuits are energized", "A test performed when circuits are not energized", "A test for live wires", "A test for voltage"],
+    "answer": 1
+  },
+  {
+    "id": "Q246",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the purpose of a polarity test?",
+    "choices": ["To measure current", "To ensure live and neutral are not crossed", "To test insulation", "To measure resistance"],
+    "answer": 1
+  },
+  {
+    "id": "Q247",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is earth leakage?",
+    "choices": ["Flow of current from live conductor to earth", "Flow of current in a circuit", "Loss of voltage", "Short circuit"],
+    "answer": 0
+  },
+  {
+    "id": "Q248",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is used to control earthing issues?",
+    "choices": ["MCB", "ELCB", "Transformer", "Relay"],
+    "answer": 1
+  },
+  {
+    "id": "Q249",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What should be checked if a blower motor is not working properly?",
+    "choices": ["Only the fan", "Physical damage, bearings, windings, and capacitor", "Only the voltage", "Only the current"],
+    "answer": 1
+  },
+  {
+    "id": "Q250",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is a common cause of dimming or flickering lights?",
+    "choices": ["Loose bulb, faulty switch, or loose wiring", "High voltage", "Low current", "Short circuit"],
+    "answer": 0
+  },
+  {
+    "id": "Q251",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What should be done if a burning odour is detected in the electrical system?",
+    "choices": ["Ignore it", "Switch off all lights and appliances, switch off breaker, and inspect wiring", "Continue using", "Only check the fuse"],
+    "answer": 1
+  },
+  {
+    "id": "Q252",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the purpose of an ohmmeter?",
+    "choices": ["To measure voltage", "To measure resistance", "To measure current", "To detect gas leaks"],
+    "answer": 1
+  },
+  {
+    "id": "Q253",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What should be checked when repairing a circuit breaker fuse?",
+    "choices": ["Only the voltage", "Identify blown fuse, remove, and replace with new one", "Only the current", "Only the wiring"],
+    "answer": 1
+  },
+  {
+    "id": "Q254",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the effect of dirty condenser coils on a motor?",
+    "choices": ["Improved performance", "Overheating and damage to the motor", "No effect", "Reduced noise"],
+    "answer": 1
+  },
+  {
+    "id": "Q255",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.3,
+    "topic": "Electrical Connections, Earthing and Motor Issues",
+    "difficulty": "easy",
+    "question": "What is the first step in checking motor bearings?",
+    "choices": ["Replace immediately", "Ensure free rotation and check for smooth movement", "Lubricate without checking", "Ignore the bearing"],
+    "answer": 1
+  },
+
+  {
+    "id": "Q256",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is a feature of customer service standards?",
+    "choices": ["Timeliness", "Inaccuracy", "Inappropriateness", "Unmeasurability"],
+    "answer": 0
+  },
+  {
+    "id": "Q257",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "Why is measurability important in service standards?",
+    "choices": ["To ignore results", "To monitor and evaluate results", "To avoid work", "To reduce quality"],
+    "answer": 1
+  },
+  {
+    "id": "Q258",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is downtime?",
+    "choices": ["Time when a system is performing well", "Period when a system is unavailable", "Time when a system is upgraded", "Time when a system is idle"],
+    "answer": 1
+  },
+  {
+    "id": "Q259",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "Which type of downtime is planned?",
+    "choices": ["Scheduled maintenance", "Infrastructure failure", "Human mistake", "Geographical catastrophe"],
+    "answer": 0
+  },
+  {
+    "id": "Q260",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the purpose of documenting complaints?",
+    "choices": ["To ignore them", "To record and resolve issues effectively", "To increase complaints", "To reduce efficiency"],
+    "answer": 1
+  },
+  {
+    "id": "Q261",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the benefit of documenting common problems?",
+    "choices": ["It increases complaints", "It helps resolve issues quickly", "It reduces efficiency", "It is not useful"],
+    "answer": 1
+  },
+  {
+    "id": "Q262",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the purpose of documenting ticket escalation processes?",
+    "choices": ["To delay resolution", "To ensure tickets are escalated promptly", "To avoid work", "To increase complaints"],
+    "answer": 1
+  },
+  {
+    "id": "Q263",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the goal of customer service standards?",
+    "choices": ["To reduce quality", "To ensure consistent high‑level service", "To increase complaints", "To avoid work"],
+    "answer": 1
+  },
+  {
+    "id": "Q264",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is unplanned downtime caused by?",
+    "choices": ["Scheduled maintenance", "Infrastructure failures or human mistakes", "Upgrades", "Routine checks"],
+    "answer": 1
+  },
+  {
+    "id": "Q265",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "Why is accuracy important in customer service?",
+    "choices": ["To reduce efficiency", "To solve issues with the right methods", "To increase complaints", "To avoid work"],
+    "answer": 1
+  },
+  {
+    "id": "Q266",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the purpose of a help desk knowledge base?",
+    "choices": ["To increase complaints", "To resolve issues quickly using time‑tested processes", "To avoid work", "To reduce efficiency"],
+    "answer": 1
+  },
+  {
+    "id": "Q267",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What should be recorded in a help desk ticket?",
+    "choices": ["Only the solution", "Complaint, symptoms, escalation, and action taken", "Only the customer name", "Only the date"],
+    "answer": 1
+  },
+  {
+    "id": "Q268",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the benefit of proper documentation?",
+    "choices": ["It increases complaints", "It ensures quick resolutions and accountability", "It reduces efficiency", "It is not useful"],
+    "answer": 1
+  },
+  {
+    "id": "Q269",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the role of ISHRAE?",
+    "choices": ["To design HVAC systems", "To set standards for HVAC engineers and provide training", "To manufacture HVAC components", "To install HVAC systems"],
+    "answer": 1
+  },
+  {
+    "id": "Q270",
+    "module": "Repair of the System and Performance Check",
+    "unit": 4.4,
+    "topic": "Achieving Delivery Standards",
+    "difficulty": "easy",
+    "question": "What is the purpose of ASHRAE?",
+    "choices": ["To set standards for HVAC engineers", "To manufacture HVAC equipment", "To provide electrical training", "To design buildings"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q271",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is an example of workplace ethics?",
+    "choices": ["Accountability", "Dishonesty", "Irresponsibility", "Lack of transparency"],
+    "answer": 0
+  },
+  {
+    "id": "Q272",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is a benefit of workplace ethics?",
+    "choices": ["Improved public reputation", "Increased complaints", "Reduced employee satisfaction", "Legal non‑compliance"],
+    "answer": 0
+  },
+  {
+    "id": "Q273",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "Which is an example of an interpersonal skill?",
+    "choices": ["Active listening", "Ignoring others", "Avoiding teamwork", "Lack of empathy"],
+    "answer": 0
+  },
+  {
+    "id": "Q274",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What does active listening involve?",
+    "choices": ["Paying complete attention to the speaker", "Interrupting frequently", "Ignoring body language", "Multitasking"],
+    "answer": 0
+  },
+  {
+    "id": "Q275",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is empathy?",
+    "choices": ["Understanding others' emotions", "Ignoring others' feelings", "Being indifferent", "Being self‑centred"],
+    "answer": 0
+  },
+  {
+    "id": "Q276",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is conflict resolution?",
+    "choices": ["Resolving disagreements through negotiation", "Ignoring conflicts", "Increasing arguments", "Avoiding communication"],
+    "answer": 0
+  },
+  {
+    "id": "Q277",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is a way to improve interpersonal skills?",
+    "choices": ["Ask for feedback", "Avoid communication", "Ignore others", "Focus only on your own work"],
+    "answer": 0
+  },
+  {
+    "id": "Q278",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is the importance of teamwork?",
+    "choices": ["Achieving common goals", "Increasing conflicts", "Reducing productivity", "Avoiding collaboration"],
+    "answer": 0
+  },
+  {
+    "id": "Q279",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is non‑verbal communication?",
+    "choices": ["Body language and gestures", "Written text", "Spoken words", "Emails"],
+    "answer": 0
+  },
+  {
+    "id": "Q280",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is a characteristic of a good leader?",
+    "choices": ["Motivating and inspiring others", "Being authoritarian", "Avoiding communication", "Ignoring feedback"],
+    "answer": 0
+  },
+  {
+    "id": "Q281",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is the purpose of open body language?",
+    "choices": ["Encouraging positivity and trust", "Creating distance", "Showing disinterest", "Avoiding communication"],
+    "answer": 0
+  },
+  {
+    "id": "Q282",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is the benefit of good interpersonal skills?",
+    "choices": ["Better collaboration and problem solving", "Increased conflicts", "Reduced productivity", "Avoidance of communication"],
+    "answer": 0
+  },
+  {
+    "id": "Q283",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is the purpose of verbal communication?",
+    "choices": ["To speak clearly and convey messages", "To avoid speaking", "To ignore others", "To create confusion"],
+    "answer": 0
+  },
+  {
+    "id": "Q284",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is the importance of asking questions in communication?",
+    "choices": ["To show interest and clarify", "To dominate the conversation", "To avoid listening", "To confuse others"],
+    "answer": 0
+  },
+  {
+    "id": "Q285",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.1,
+    "topic": "Effective Communication and Coordination",
+    "difficulty": "easy",
+    "question": "What is the role of feedback in improving interpersonal skills?",
+    "choices": ["Helps identify areas for improvement", "Increases ignorance", "Reduces communication", "Avoids growth"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q286",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is the benefit of discipline at work?",
+    "choices": ["Improves productivity and reduces conflict", "Increases chaos", "Reduces efficiency", "Encourages misconduct"],
+    "answer": 0
+  },
+  {
+    "id": "Q287",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What should an employee handbook contain?",
+    "choices": ["Rules and policies for employees", "Only the company history", "Only the product list", "Only employee salaries"],
+    "answer": 0
+  },
+  {
+    "id": "Q288",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is a code of conduct?",
+    "choices": ["Guide for expected behaviour at work", "List of employee salaries", "Product catalogue", "Customer feedback form"],
+    "answer": 0
+  },
+  {
+    "id": "Q289",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is a common cause of workplace conflicts?",
+    "choices": ["Poor communication", "Effective communication", "Good teamwork", "Clear instructions"],
+    "answer": 0
+  },
+  {
+    "id": "Q290",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is a way to resolve interpersonal conflicts?",
+    "choices": ["Communication and active listening", "Ignoring the conflict", "Blaming others", "Avoiding the person"],
+    "answer": 0
+  },
+  {
+    "id": "Q291",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "Why is following organizational guidelines important?",
+    "choices": ["To ensure consistency and safety", "To increase confusion", "To avoid work", "To create disorder"],
+    "answer": 0
+  },
+  {
+    "id": "Q292",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is workflow?",
+    "choices": ["Order of steps in a work process", "A type of software", "A management tool", "A customer service strategy"],
+    "answer": 0
+  },
+  {
+    "id": "Q293",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is the benefit of a defined workflow?",
+    "choices": ["Increases accountability and reduces micromanagement", "Increases confusion", "Reduces efficiency", "Encourages conflict"],
+    "answer": 0
+  },
+  {
+    "id": "Q294",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is business‑sensitive information?",
+    "choices": ["Confidential business data", "Public information", "Employee addresses", "Customer feedback"],
+    "answer": 0
+  },
+  {
+    "id": "Q295",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What should be done if a grievance is not addressed?",
+    "choices": ["Escalate to senior management", "Ignore it", "Avoid reporting", "Blame others"],
+    "answer": 0
+  },
+  {
+    "id": "Q296",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is a way to manage heightened emotions?",
+    "choices": ["Deep breathing and relaxation", "Reacting immediately", "Ignoring emotions", "Blowing up"],
+    "answer": 0
+  },
+  {
+    "id": "Q297",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is the purpose of the 10‑second rule?",
+    "choices": ["To calm down before reacting", "To make quick decisions", "To ignore emotions", "To avoid communication"],
+    "answer": 0
+  },
+  {
+    "id": "Q298",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is the benefit of compartmentalising emotions?",
+    "choices": ["Keeping personal and professional life separate", "Mixing emotions", "Ignoring feelings", "Avoiding communication"],
+    "answer": 0
+  },
+  {
+    "id": "Q299",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is the importance of reporting problems to a supervisor?",
+    "choices": ["To ensure prompt resolution", "To ignore them", "To avoid responsibility", "To blame others"],
+    "answer": 0
+  },
+  {
+    "id": "Q300",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.2,
+    "topic": "Working Effectively and Maintaining Discipline",
+    "difficulty": "easy",
+    "question": "What is the role of HR in reporting issues?",
+    "choices": ["To address grievances and ensure compliance", "To ignore complaints", "To create conflicts", "To avoid action"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q301",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is gender sensitivity?",
+    "choices": ["Being sensitive to gender issues", "Ignoring gender", "Discriminating based on gender", "Favouring one gender"],
+    "answer": 0
+  },
+  {
+    "id": "Q302",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is gender equality?",
+    "choices": ["Equal opportunities for all genders", "Favouring one gender", "Ignoring gender issues", "Discrimination based on gender"],
+    "answer": 0
+  },
+  {
+    "id": "Q303",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is a way to promote gender equity?",
+    "choices": ["Follow gender‑neutral practices", "Ignore gender issues", "Favour one gender", "Discriminate"],
+    "answer": 0
+  },
+  {
+    "id": "Q304",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is PwD sensitivity?",
+    "choices": ["Empathy and respect for persons with disabilities", "Ignoring disabilities", "Discriminating against PwD", "Avoiding PwD"],
+    "answer": 0
+  },
+  {
+    "id": "Q305",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is a type of disability?",
+    "choices": ["Blindness", "Height", "Age", "Gender"],
+    "answer": 0
+  },
+  {
+    "id": "Q306",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is a way to be PwD sensitive?",
+    "choices": ["Be respectful and supportive", "Ignore PwD", "Avoid communication", "Discriminate"],
+    "answer": 0
+  },
+  {
+    "id": "Q307",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is appropriate verbal communication with PwD?",
+    "choices": ["Talk directly and respectfully", "Talk to their caretaker", "Ignore them", "Use a loud voice"],
+    "answer": 0
+  },
+  {
+    "id": "Q308",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is non‑verbal communication?",
+    "choices": ["Body language, gestures, and eye contact", "Written text", "Spoken words", "Emails"],
+    "answer": 0
+  },
+  {
+    "id": "Q309",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is a right of PwD?",
+    "choices": ["Right to economic and social security", "Right to ignore others", "Right to discriminate", "Right to be isolated"],
+    "answer": 0
+  },
+  {
+    "id": "Q310",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is a way to make the workplace PwD friendly?",
+    "choices": ["Provide assistance only when asked", "Ignore their needs", "Avoid interaction", "Discriminate"],
+    "answer": 0
+  },
+  {
+    "id": "Q311",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is expected employer behaviour?",
+    "choices": ["Cooperation and polite language", "Rudeness", "Discrimination", "Unbiased behaviour"],
+    "answer": 0
+  },
+  {
+    "id": "Q312",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is the importance of gender sensitivity?",
+    "choices": ["Ensures accurate meaning of gender equality", "Increases discrimination", "Reduces equality", "Promotes bias"],
+    "answer": 0
+  },
+  {
+    "id": "Q313",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is the role of women in the workplace?",
+    "choices": ["Important source of labour", "Should be ignored", "Should be discriminated against", "Should be limited"],
+    "answer": 0
+  },
+  {
+    "id": "Q314",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is the benefit of equal pay?",
+    "choices": ["Promotes gender equality", "Increases discrimination", "Reduces efficiency", "Creates conflict"],
+    "answer": 0
+  },
+  {
+    "id": "Q315",
+    "module": "Soft Skills and Work Ethics",
+    "unit": 5.3,
+    "topic": "Maintaining Social Diversity at Work",
+    "difficulty": "easy",
+    "question": "What is the purpose of women‑centric programmes?",
+    "choices": ["To empower women", "To ignore women", "To discriminate", "To reduce opportunities"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q316",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is a biological hazard?",
+    "choices": ["Threats caused by viruses and bacteria", "Threats caused by chemicals", "Threats caused by machinery", "Threats caused by stress"],
+    "answer": 0
+  },
+  {
+    "id": "Q317",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is a chemical hazard?",
+    "choices": ["Inhalation of chemicals and solvents", "Moving parts of machinery", "Stress and harassment", "Vibration and noise"],
+    "answer": 0
+  },
+  {
+    "id": "Q318",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is an ergonomic hazard?",
+    "choices": ["Awkward posture and forceful motion", "Biological agents", "Chemicals", "Stress"],
+    "answer": 0
+  },
+  {
+    "id": "Q319",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of a prohibition sign?",
+    "choices": ["To prohibit behaviour that endangers health", "To give instructions", "To warn about hazards", "To indicate emergency routes"],
+    "answer": 0
+  },
+  {
+    "id": "Q320",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What colour is used for warning signs?",
+    "choices": ["Yellow", "Red", "Blue", "Green"],
+    "answer": 0
+  },
+  {
+    "id": "Q321",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the benefit of cleanliness at the workplace?",
+    "choices": ["Improves productivity and employee well‑being", "Increases illness", "Reduces efficiency", "Causes accidents"],
+    "answer": 0
+  },
+  {
+    "id": "Q322",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is a common injury from lifting heavy objects?",
+    "choices": ["Sprains and strains", "Head injury", "Hearing loss", "Burns"],
+    "answer": 0
+  },
+  {
+    "id": "Q323",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the correct posture for lifting heavy objects?",
+    "choices": ["Squat down, keep back straight, lift with legs", "Bend forward at the waist", "Lift with back", "Twist while lifting"],
+    "answer": 0
+  },
+  {
+    "id": "Q324",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of PPE?",
+    "choices": ["To reduce exposure to risks", "To increase risk", "To avoid work", "To create hazards"],
+    "answer": 0
+  },
+  {
+    "id": "Q325",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of a hard hat?",
+    "choices": ["To protect against head injuries", "To protect eyes", "To protect hearing", "To protect hands"],
+    "answer": 0
+  },
+  {
+    "id": "Q326",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of safety goggles?",
+    "choices": ["To protect eyes from flying fragments", "To protect head", "To protect hearing", "To protect hands"],
+    "answer": 0
+  },
+  {
+    "id": "Q327",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of earplugs?",
+    "choices": ["To protect hearing from high noise", "To protect eyes", "To protect head", "To protect hands"],
+    "answer": 0
+  },
+  {
+    "id": "Q328",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of gloves?",
+    "choices": ["To protect hands from hazards", "To protect eyes", "To protect head", "To protect hearing"],
+    "answer": 0
+  },
+  {
+    "id": "Q329",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the purpose of a fire‑resistant suit?",
+    "choices": ["To protect whole body from fire", "To protect eyes", "To protect hands", "To protect hearing"],
+    "answer": 0
+  },
+  {
+    "id": "Q330",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.1,
+    "topic": "Workplace Hazards",
+    "difficulty": "easy",
+    "question": "What is the first step in workplace hazard analysis?",
+    "choices": ["Identifying risks", "Ignoring risks", "Eliminating risks", "Reporting risks"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q331",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of a fire extinguisher?",
+    "choices": ["To put out small fires", "To increase fires", "To avoid safety", "To create smoke"],
+    "answer": 0
+  },
+  {
+    "id": "Q332",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "Which fire extinguisher is used for Class A fires?",
+    "choices": ["Water", "Powder", "CO2", "Wet chemical"],
+    "answer": 0
+  },
+  {
+    "id": "Q333",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "Which fire extinguisher is used for electrical fires?",
+    "choices": ["CO2", "Water", "Foam", "Wet chemical"],
+    "answer": 0
+  },
+  {
+    "id": "Q334",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of a fire risk assessment?",
+    "choices": ["To identify fire risks", "To ignore risks", "To create fires", "To avoid safety"],
+    "answer": 0
+  },
+  {
+    "id": "Q335",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What should you do if your clothes catch fire?",
+    "choices": ["Stop, drop, and roll", "Run quickly", "Ignore it", "Blow on it"],
+    "answer": 0
+  },
+  {
+    "id": "Q336",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of fire drills?",
+    "choices": ["To practice evacuation", "To create panic", "To avoid safety", "To increase risk"],
+    "answer": 0
+  },
+  {
+    "id": "Q337",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "Which fire extinguisher is suitable for cooking oil fires?",
+    "choices": ["Wet chemical", "Water", "Powder", "CO2"],
+    "answer": 0
+  },
+  {
+    "id": "Q338",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of a foam extinguisher?",
+    "choices": ["To suffocate fires and prevent re‑ignition", "To cool fires", "To remove oxygen", "To create foam"],
+    "answer": 0
+  },
+  {
+    "id": "Q339",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of a powder extinguisher?",
+    "choices": ["To extinguish burning metals", "To cool fires", "To remove oxygen", "To create powder"],
+    "answer": 0
+  },
+  {
+    "id": "Q340",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the first step in responding to a workplace fire?",
+    "choices": ["Raise the alarm", "Ignore it", "Run away", "Blame others"],
+    "answer": 0
+  },
+  {
+    "id": "Q341",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What should be done after a fire drill?",
+    "choices": ["Assemble at a central location", "Return to work", "Ignore the drill", "Blame others"],
+    "answer": 0
+  },
+  {
+    "id": "Q342",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of emergency signs?",
+    "choices": ["To indicate emergency routes and facilities", "To ignore emergencies", "To create panic", "To avoid safety"],
+    "answer": 0
+  },
+  {
+    "id": "Q343",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of mandatory signs?",
+    "choices": ["To give clear instructions that must be followed", "To ignore instructions", "To create confusion", "To avoid safety"],
+    "answer": 0
+  },
+  {
+    "id": "Q344",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of prohibition signs?",
+    "choices": ["To prohibit unsafe behaviour", "To ignore safety", "To create hazards", "To avoid work"],
+    "answer": 0
+  },
+  {
+    "id": "Q345",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.2,
+    "topic": "Fire Safety",
+    "difficulty": "easy",
+    "question": "What is the purpose of warning signs?",
+    "choices": ["To warn about hazards", "To ignore hazards", "To create hazards", "To avoid safety"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q346",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of first aid?",
+    "choices": ["To preserve life and prevent worsening of injury", "To cause more injury", "To avoid treatment", "To ignore the victim"],
+    "answer": 0
+  },
+  {
+    "id": "Q347",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What should be done for minor cuts and scrapes?",
+    "choices": ["Wash hands, stop bleeding, clean wound", "Ignore them", "Apply direct heat", "Rub dirt into the wound"],
+    "answer": 0
+  },
+  {
+    "id": "Q348",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is a symptom of a heart attack?",
+    "choices": ["Chest pain and shortness of breath", "Headache and fever", "Sore throat", "Back pain"],
+    "answer": 0
+  },
+  {
+    "id": "Q349",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the first step in first aid for a heart attack?",
+    "choices": ["Have the person sit down and rest", "Give them food", "Make them run", "Ignore them"],
+    "answer": 0
+  },
+  {
+    "id": "Q350",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What should be done if a person is unconscious and unresponsive?",
+    "choices": ["Call emergency and begin CPR", "Ignore them", "Slap them", "Pour water on them"],
+    "answer": 0
+  },
+  {
+    "id": "Q351",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of CPR?",
+    "choices": ["To maintain blood flow and breathing", "To cause injury", "To avoid treatment", "To ignore the victim"],
+    "answer": 0
+  },
+  {
+    "id": "Q352",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the first step in treating a cut?",
+    "choices": ["Wash hands with soap and water", "Ignore it", "Apply heat", "Rub dirt"],
+    "answer": 0
+  },
+  {
+    "id": "Q353",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of a saline wound wash?",
+    "choices": ["To clean wounds", "To cause infection", "To ignore cuts", "To apply heat"],
+    "answer": 0
+  },
+  {
+    "id": "Q354",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What should be done for bleeding?",
+    "choices": ["Apply pressure with a gauze pad", "Ignore it", "Apply heat", "Remove the bandage"],
+    "answer": 0
+  },
+  {
+    "id": "Q355",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of a first aid kit?",
+    "choices": ["To provide necessary first aid supplies", "To ignore injuries", "To cause harm", "To avoid treatment"],
+    "answer": 0
+  },
+  {
+    "id": "Q356",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What should be included in a first aid kit?",
+    "choices": ["Bandages, antiseptics, and gloves", "Only food", "Only water", "Only tools"],
+    "answer": 0
+  },
+  {
+    "id": "Q357",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of a cold pad in first aid?",
+    "choices": ["To reduce swelling", "To increase pain", "To ignore injury", "To apply heat"],
+    "answer": 0
+  },
+  {
+    "id": "Q358",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of disposable gloves in first aid?",
+    "choices": ["To prevent infection", "To ignore injury", "To cause harm", "To avoid treatment"],
+    "answer": 0
+  },
+  {
+    "id": "Q359",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of scissors in a first aid kit?",
+    "choices": ["To cut bandages", "To cause harm", "To ignore injury", "To avoid treatment"],
+    "answer": 0
+  },
+  {
+    "id": "Q360",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.3,
+    "topic": "First Aid",
+    "difficulty": "easy",
+    "question": "What is the purpose of tweezers in a first aid kit?",
+    "choices": ["To remove dirt or debris from cuts", "To cause harm", "To ignore injury", "To avoid treatment"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q361",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is waste management?",
+    "choices": ["Collection, disposal, and processing of waste", "Ignoring waste", "Creating waste", "Avoiding recycling"],
+    "answer": 0
+  },
+  {
+    "id": "Q362",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is the most common method of waste disposal?",
+    "choices": ["Landfills", "Recycling", "Composting", "Incineration"],
+    "answer": 0
+  },
+  {
+    "id": "Q363",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is the purpose of recycling?",
+    "choices": ["To transform waste into new products", "To increase waste", "To ignore waste", "To avoid disposal"],
+    "answer": 0
+  },
+  {
+    "id": "Q364",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is composting?",
+    "choices": ["Converting organic waste into nutrient‑rich food", "Burning waste", "Burying waste", "Ignoring waste"],
+    "answer": 0
+  },
+  {
+    "id": "Q365",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is incineration?",
+    "choices": ["Combusting waste at high temperatures", "Burying waste", "Recycling waste", "Composting waste"],
+    "answer": 0
+  },
+  {
+    "id": "Q366",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is hazardous waste?",
+    "choices": ["Waste that can cause serious harm", "Waste that is harmless", "Waste that can be recycled", "Waste that is organic"],
+    "answer": 0
+  },
+  {
+    "id": "Q367",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is an example of point source pollution?",
+    "choices": ["Effluent discharge from a sewage plant", "Rainwater runoff", "Air pollution from cars", "Noise pollution"],
+    "answer": 0
+  },
+  {
+    "id": "Q368",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is diffuse pollution?",
+    "choices": ["Pollution from a wide area", "Pollution from a single point", "Pollution from a pipe", "Pollution from a factory"],
+    "answer": 0
+  },
+  {
+    "id": "Q369",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is pollution prevention?",
+    "choices": ["Acting at the source to prevent pollution", "Ignoring pollution", "Increasing pollution", "Avoiding action"],
+    "answer": 0
+  },
+  {
+    "id": "Q370",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is e‑waste?",
+    "choices": ["Electronic waste", "Industrial waste", "Organic waste", "Chemical waste"],
+    "answer": 0
+  },
+  {
+    "id": "Q371",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is a way to dispose of e‑waste?",
+    "choices": ["Giving to certified recyclers", "Dumping in landfills", "Burning", "Burying"],
+    "answer": 0
+  },
+  {
+    "id": "Q372",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is the purpose of reducing pollution?",
+    "choices": ["To protect health and environment", "To increase harm", "To ignore issues", "To avoid action"],
+    "answer": 0
+  },
+  {
+    "id": "Q373",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is the benefit of recycling?",
+    "choices": ["Reduces energy consumption and landfill volume", "Increases waste", "Ignores resources", "Avoids disposal"],
+    "answer": 0
+  },
+  {
+    "id": "Q374",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is the purpose of source reduction?",
+    "choices": ["To reduce hazards and protect health", "To increase hazards", "To ignore pollution", "To avoid action"],
+    "answer": 0
+  },
+  {
+    "id": "Q375",
+    "module": "Basic Health and Safety Practices",
+    "unit": 6.4,
+    "topic": "Waste Management",
+    "difficulty": "easy",
+    "question": "What is the purpose of waste segregation?",
+    "choices": ["To separate recyclable and non‑recyclable waste", "To increase waste", "To ignore recycling", "To avoid disposal"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q376",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is a packaged air conditioner?",
+    "choices": ["All components in one outdoor unit", "Components split into indoor and outdoor units", "Only a window unit", "Only a split unit"],
+    "answer": 0
+  },
+  {
+    "id": "Q377",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the capacity range of packaged air conditioners?",
+    "choices": ["3 to 15 tons", "Up to 5 tons", "Beyond 20 tons", "Only 1 ton"],
+    "answer": 0
+  },
+  {
+    "id": "Q378",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What are the two types of packaged air conditioners?",
+    "choices": ["Water‑cooled and air‑cooled condenser", "Window and split", "Central and local", "Ducted and ductless"],
+    "answer": 0
+  },
+  {
+    "id": "Q379",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the function of a water‑cooled condenser?",
+    "choices": ["Cooled by water", "Cooled by air", "Cooled by refrigerant", "Cooled by solar energy"],
+    "answer": 0
+  },
+  {
+    "id": "Q380",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the function of an air‑cooled condenser?",
+    "choices": ["Cooled by atmospheric air", "Cooled by water", "Cooled by refrigerant", "Cooled by geothermal energy"],
+    "answer": 0
+  },
+  {
+    "id": "Q381",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "How many compressors are used for higher loads in packaged ACs?",
+    "choices": ["Two", "One", "Three", "Four"],
+    "answer": 0
+  },
+  {
+    "id": "Q382",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the purpose of two compressors in a packaged AC?",
+    "choices": ["Capacity control and redundancy", "To increase noise", "To reduce efficiency", "To increase size"],
+    "answer": 0
+  },
+  {
+    "id": "Q383",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the function of ductwork in a packaged AC?",
+    "choices": ["To distribute airflow", "To store refrigerant", "To control humidity", "To measure temperature"],
+    "answer": 0
+  },
+  {
+    "id": "Q384",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What material is commonly used for ductwork?",
+    "choices": ["Galvanized steel", "Copper", "Aluminium", "Plastic"],
+    "answer": 0
+  },
+  {
+    "id": "Q385",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the purpose of vibration isolators in duct systems?",
+    "choices": ["To minimize vibration and noise", "To increase vibration", "To reduce airflow", "To increase noise"],
+    "answer": 0
+  },
+  {
+    "id": "Q386",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the function of volume control dampers?",
+    "choices": ["To adjust airflow volume", "To increase airflow", "To reduce temperature", "To increase pressure"],
+    "answer": 0
+  },
+  {
+    "id": "Q387",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the purpose of smoke and fire dampers?",
+    "choices": ["To seal off ducts during fire or smoke", "To increase smoke", "To reduce safety", "To ignore fire"],
+    "answer": 0
+  },
+  {
+    "id": "Q388",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the function of turning vanes?",
+    "choices": ["To reduce resistance and turbulence", "To increase resistance", "To reduce airflow", "To increase turbulence"],
+    "answer": 0
+  },
+  {
+    "id": "Q389",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the purpose of plenums?",
+    "choices": ["Central collection and distribution of air", "To store refrigerant", "To control humidity", "To measure temperature"],
+    "answer": 0
+  },
+  {
+    "id": "Q390",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.1,
+    "topic": "Packaged Air Conditioners",
+    "difficulty": "easy",
+    "question": "What is the function of terminal units?",
+    "choices": ["To control airflow in multi‑zone systems", "To increase airflow", "To reduce temperature", "To increase pressure"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q391",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the first step in installing ductwork?",
+    "choices": ["Check equipment", "Provide unit support", "Select ductwork", "Place unit"],
+    "answer": 0
+  },
+  {
+    "id": "Q392",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What should be checked during shipment inspection?",
+    "choices": ["Shipping damage", "Temperature", "Humidity", "Air quality"],
+    "answer": 0
+  },
+  {
+    "id": "Q393",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the purpose of a slab mount?",
+    "choices": ["To provide a rigid, level surface for the unit", "To increase vibration", "To reduce stability", "To ignore support"],
+    "answer": 0
+  },
+  {
+    "id": "Q394",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the required levelness of a unit for proper drainage?",
+    "choices": ["Within 1/4 inch", "Within 1 inch", "Within 2 inches", "No requirement"],
+    "answer": 0
+  },
+  {
+    "id": "Q395",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the purpose of clearances around the unit?",
+    "choices": ["To allow ventilation and service access", "To increase restrictions", "To reduce airflow", "To ignore safety"],
+    "answer": 0
+  },
+  {
+    "id": "Q396",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the first step in pre‑start‑up checks?",
+    "choices": ["Remove all access panels", "Start the unit", "Check refrigerant", "Test electrical connections"],
+    "answer": 0
+  },
+  {
+    "id": "Q397",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What should be used to detect refrigerant leaks?",
+    "choices": ["Electronic leak detector or soap solution", "Visual inspection only", "Thermometer", "Pressure gauge"],
+    "answer": 0
+  },
+  {
+    "id": "Q398",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the purpose of checking coil fins?",
+    "choices": ["To straighten damaged fins", "To increase damage", "To ignore coils", "To reduce efficiency"],
+    "answer": 0
+  },
+  {
+    "id": "Q399",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "How often should air filters be inspected?",
+    "choices": ["Monthly", "Annually", "Weekly", "Daily"],
+    "answer": 0
+  },
+  {
+    "id": "Q400",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the purpose of cleaning the blower wheel?",
+    "choices": ["To remove dirt and grease", "To increase dirt", "To reduce efficiency", "To ignore maintenance"],
+    "answer": 0
+  },
+  {
+    "id": "Q401",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What should be checked during condenser fan maintenance?",
+    "choices": ["Fan height and setscrews", "Only the motor", "Only the blades", "Only the wiring"],
+    "answer": 0
+  },
+  {
+    "id": "Q402",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the purpose of electrical controls inspection?",
+    "choices": ["To check connections and tighten them", "To ignore wiring", "To reduce safety", "To increase risk"],
+    "answer": 0
+  },
+  {
+    "id": "Q403",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is a common symptom of compressor and condenser fan not starting?",
+    "choices": ["Power failure or blown fuse", "High refrigerant", "Low voltage", "Clean coils"],
+    "answer": 0
+  },
+  {
+    "id": "Q404",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the solution for excessive head pressure?",
+    "choices": ["Clean condenser coil or remove restriction", "Increase refrigerant", "Ignore it", "Reduce airflow"],
+    "answer": 0
+  },
+  {
+    "id": "Q405",
+    "module": "Service and Repair of Packaged Type HVAC Ducted Systems",
+    "unit": 7.2,
+    "topic": "Installation and Repair of Ductwork",
+    "difficulty": "easy",
+    "question": "What is the purpose of a cooling tower?",
+    "choices": ["To reduce water temperature by evaporation", "To increase water temperature", "To store water", "To circulate air"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q406",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "According to WHO, health is:",
+    "choices": ["Complete physical, mental, and social well‑being", "Absence of disease only", "Physical fitness only", "Mental health only"],
+    "answer": 0
+  },
+  {
+    "id": "Q407",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is a common health issue?",
+    "choices": ["Diabetes", "Happiness", "Wealth", "Success"],
+    "answer": 0
+  },
+  {
+    "id": "Q408",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is a tip to prevent health issues?",
+    "choices": ["Eating healthy foods", "Skipping meals", "Avoiding exercise", "Ignoring sleep"],
+    "answer": 0
+  },
+  {
+    "id": "Q409",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is hygiene?",
+    "choices": ["Conditions and practices to maintain health", "Absence of disease", "Physical fitness", "Mental health"],
+    "answer": 0
+  },
+  {
+    "id": "Q410",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is the purpose of Swachh Bharat Abhiyan?",
+    "choices": ["To clean streets and raise cleanliness levels", "To increase pollution", "To ignore hygiene", "To avoid cleaning"],
+    "answer": 0
+  },
+  {
+    "id": "Q411",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is a habit?",
+    "choices": ["A behaviour repeated frequently", "A one‑time action", "A thought", "A feeling"],
+    "answer": 0
+  },
+  {
+    "id": "Q412",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is a good habit?",
+    "choices": ["Making exercise a part of daily routine", "Skipping breakfast", "Snacking frequently", "Staying up late"],
+    "answer": 0
+  },
+  {
+    "id": "Q413",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is motivation?",
+    "choices": ["Reason for acting or behaving", "A feeling", "A thought", "A habit"],
+    "answer": 0
+  },
+  {
+    "id": "Q414",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is the first level in Maslow's Hierarchy of Needs?",
+    "choices": ["Physiological needs", "Safety needs", "Belongingness", "Self‑actualization"],
+    "answer": 0
+  },
+  {
+    "id": "Q415",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is achievement motivation?",
+    "choices": ["Motivation by highly challenging accomplishments", "Motivation by basic needs", "Motivation by safety", "Motivation by belongingness"],
+    "answer": 0
+  },
+  {
+    "id": "Q416",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is a characteristic of entrepreneurs with achievement motivation?",
+    "choices": ["Unafraid to take risks", "Avoid challenges", "Not persistent", "Not creative"],
+    "answer": 0
+  },
+  {
+    "id": "Q417",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "How can one cultivate a positive attitude?",
+    "choices": ["By focusing on the good and being proactive", "By complaining", "By being negative", "By ignoring positivity"],
+    "answer": 0
+  },
+  {
+    "id": "Q418",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is honesty?",
+    "choices": ["Quality of being fair and truthful", "Quality of being dishonest", "Quality of being deceptive", "Quality of being unfair"],
+    "answer": 0
+  },
+  {
+    "id": "Q419",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is an element of a strong work ethic?",
+    "choices": ["Professionalism", "Dishonesty", "Irresponsibility", "Lack of respect"],
+    "answer": 0
+  },
+  {
+    "id": "Q420",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.1,
+    "topic": "Personal Strengths and Value Systems",
+    "difficulty": "easy",
+    "question": "What is time management?",
+    "choices": ["Organizing and allocating time effectively", "Wasting time", "Ignoring schedules", "Avoiding tasks"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q421",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is the function of a CPU?",
+    "choices": ["Interprets and carries out program instructions", "Stores data", "Displays information", "Prints documents"],
+    "answer": 0
+  },
+  {
+    "id": "Q422",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is a hard drive?",
+    "choices": ["A device that stores large amounts of data", "A device that displays information", "A device that prints", "A device that sends emails"],
+    "answer": 0
+  },
+  {
+    "id": "Q423",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is a monitor?",
+    "choices": ["A device that displays visual information", "A device that stores data", "A device that prints", "A device that scans"],
+    "answer": 0
+  },
+  {
+    "id": "Q424",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is the internet?",
+    "choices": ["A vast collection of computer networks", "A single computer", "A printer", "A monitor"],
+    "answer": 0
+  },
+  {
+    "id": "Q425",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is a website?",
+    "choices": ["A location on the internet with information", "A type of computer", "A printer", "A storage device"],
+    "answer": 0
+  },
+  {
+    "id": "Q426",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is a hyperlink?",
+    "choices": ["A link to another file or object", "A type of computer", "A printer", "A storage device"],
+    "answer": 0
+  },
+  {
+    "id": "Q427",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is the function of the Shift key?",
+    "choices": ["Type capital letters or upper symbols", "Add a space", "Move cursor", "Delete left"],
+    "answer": 0
+  },
+  {
+    "id": "Q428",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is the function of the Backspace key?",
+    "choices": ["Deletes everything to the left of the cursor", "Adds a space", "Moves cursor", "Enters new line"],
+    "answer": 0
+  },
+  {
+    "id": "Q429",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is Microsoft Word used for?",
+    "choices": ["Typing text and adding images", "Creating spreadsheets", "Making presentations", "Sending emails"],
+    "answer": 0
+  },
+  {
+    "id": "Q430",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is Microsoft Excel used for?",
+    "choices": ["Entering data and creating calculations", "Typing text", "Making presentations", "Sending emails"],
+    "answer": 0
+  },
+  {
+    "id": "Q431",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is Microsoft PowerPoint used for?",
+    "choices": ["Creating slideshows and presentations", "Typing text", "Creating spreadsheets", "Sending emails"],
+    "answer": 0
+  },
+  {
+    "id": "Q432",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is e‑commerce?",
+    "choices": ["Buying or selling electronically on the internet", "Buying in a physical store", "Trading only offline", "Ignoring online transactions"],
+    "answer": 0
+  },
+  {
+    "id": "Q433",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is B2B e‑commerce?",
+    "choices": ["Transactions between businesses", "Transactions between business and consumer", "Transactions between consumers", "Transactions between government and business"],
+    "answer": 0
+  },
+  {
+    "id": "Q434",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is the purpose of the Digital India campaign?",
+    "choices": ["To offer digital services to all citizens", "To ignore digital services", "To reduce internet connectivity", "To avoid e‑commerce"],
+    "answer": 0
+  },
+  {
+    "id": "Q435",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.2,
+    "topic": "Digital Literacy",
+    "difficulty": "easy",
+    "question": "What is a benefit of e‑commerce for retailers?",
+    "choices": ["Establishes an online presence", "Increases operational costs", "Reduces sales", "Increases geographical constraints"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q436",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "Why is saving money important?",
+    "choices": ["To improve financial situation and have peace of mind", "To increase debt", "To avoid emergencies", "To reduce options"],
+    "answer": 0
+  },
+  {
+    "id": "Q437",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is a benefit of saving money?",
+    "choices": ["Become financially independent", "Increase debt", "Reduce options", "Avoid retirement"],
+    "answer": 0
+  },
+  {
+    "id": "Q438",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What type of bank account is best for businessmen?",
+    "choices": ["Current account", "Savings account", "Recurring deposit", "Fixed deposit"],
+    "answer": 0
+  },
+  {
+    "id": "Q439",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is a savings account used for?",
+    "choices": ["Promoting savings", "Business transactions", "Long‑term investments", "High volume transactions"],
+    "answer": 0
+  },
+  {
+    "id": "Q440",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is a fixed deposit?",
+    "choices": ["Money deposited for a fixed period for higher interest", "Money deposited for daily transactions", "Money deposited for short‑term", "Money with no interest"],
+    "answer": 0
+  },
+  {
+    "id": "Q441",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is KYC?",
+    "choices": ["Process to verify identity and address", "A type of account", "A loan", "A tax"],
+    "answer": 0
+  },
+  {
+    "id": "Q442",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is a fixed cost?",
+    "choices": ["A cost that does not change with production volume", "A cost that changes with production", "A variable expense", "A one‑time cost"],
+    "answer": 0
+  },
+  {
+    "id": "Q443",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is a variable cost?",
+    "choices": ["A cost that changes with production volume", "A cost that does not change", "A fixed expense", "A one‑time cost"],
+    "answer": 0
+  },
+  {
+    "id": "Q444",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is an example of an investment option?",
+    "choices": ["Bonds", "Current account", "Savings account", "Credit card"],
+    "answer": 0
+  },
+  {
+    "id": "Q445",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is term insurance?",
+    "choices": ["Financial protection for a specified tenure", "Investment plus insurance", "Whole life cover", "Health cover"],
+    "answer": 0
+  },
+  {
+    "id": "Q446",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is a direct tax?",
+    "choices": ["Tax levied directly on a person or entity", "Tax on goods and services", "Sales tax", "Service tax"],
+    "answer": 0
+  },
+  {
+    "id": "Q447",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is an indirect tax?",
+    "choices": ["Tax levied on goods and services", "Tax on income", "Capital gains tax", "Corporate tax"],
+    "answer": 0
+  },
+  {
+    "id": "Q448",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is NEFT?",
+    "choices": ["National Electronic Funds Transfer", "Real Time Gross Settlement", "Immediate Payment Service", "Online banking"],
+    "answer": 0
+  },
+  {
+    "id": "Q449",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is the minimum amount for RTGS?",
+    "choices": ["₹2 lakhs", "₹1", "₹10,000", "₹5 lakhs"],
+    "answer": 0
+  },
+  {
+    "id": "Q450",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.3,
+    "topic": "Money Matters",
+    "difficulty": "easy",
+    "question": "What is the purpose of online banking?",
+    "choices": ["To access accounts and transfer funds online", "To avoid banking", "To ignore transactions", "To reduce convenience"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q451",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is the first step in preparing for an interview?",
+    "choices": ["Research the organization", "Prepare attire", "Pack documents", "Practice answers"],
+    "answer": 0
+  },
+  {
+    "id": "Q452",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "Why is researching the company important?",
+    "choices": ["To answer questions confidently", "To avoid the interview", "To ignore the job", "To reduce preparation"],
+    "answer": 0
+  },
+  {
+    "id": "Q453",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a good question to ask at the end of an interview?",
+    "choices": ["What are the next steps in the hiring process?", "What is the company's revenue?", "Who are your competitors?", "What is your salary?"],
+    "answer": 0
+  },
+  {
+    "id": "Q454",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is the purpose of a resume?",
+    "choices": ["To list work experience, education, and skills", "To list personal hobbies", "To list family members", "To list travel history"],
+    "answer": 0
+  },
+  {
+    "id": "Q455",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What should be included in the address section of a resume?",
+    "choices": ["Name, address, phone, and email", "Only name", "Only address", "Only phone"],
+    "answer": 0
+  },
+  {
+    "id": "Q456",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What should be listed in the education section of a resume?",
+    "choices": ["Highest degree first", "Lowest degree first", "Only certifications", "Only trainings"],
+    "answer": 0
+  },
+  {
+    "id": "Q457",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is the purpose of listing strengths in a resume?",
+    "choices": ["To highlight major strengths", "To highlight weaknesses", "To list hobbies", "To list family members"],
+    "answer": 0
+  },
+  {
+    "id": "Q458",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a common interview question?",
+    "choices": ["Tell me about yourself", "What is your salary?", "What is your address?", "What is your age?"],
+    "answer": 0
+  },
+  {
+    "id": "Q459",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "How should you answer 'Why should we hire you?'",
+    "choices": ["By explaining why you would be a great fit", "By listing weaknesses", "By ignoring the question", "By talking about others"],
+    "answer": 0
+  },
+  {
+    "id": "Q460",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is the purpose of a cover letter?",
+    "choices": ["To emphasize important points in the resume", "To list all work experience", "To list education only", "To ignore the resume"],
+    "answer": 0
+  },
+  {
+    "id": "Q461",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a contract employee?",
+    "choices": ["An employee working for one organization that sells services to another", "A permanent employee", "A part‑time worker", "A freelancer"],
+    "answer": 0
+  },
+  {
+    "id": "Q462",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a background check?",
+    "choices": ["Verification of information provided by candidates", "A medical test", "A skill test", "An interview"],
+    "answer": 0
+  },
+  {
+    "id": "Q463",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a layoff?",
+    "choices": ["Employee temporarily let go due to lack of work", "Permanent termination", "Promotion", "Transfer"],
+    "answer": 0
+  },
+  {
+    "id": "Q464",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a mentor?",
+    "choices": ["A person who offers advice and guidance", "A colleague at the same level", "A junior employee", "A customer"],
+    "answer": 0
+  },
+  {
+    "id": "Q465",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.4,
+    "topic": "Preparing for Employment and Self‑Employment",
+    "difficulty": "easy",
+    "question": "What is a time sheet?",
+    "choices": ["A form submitted to record hours worked", "A salary slip", "A leave application", "An invoice"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q466",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is entrepreneurship?",
+    "choices": ["The process of creating and running a business", "Working for an employer", "Investing in stocks", "Managing a team"],
+    "answer": 0
+  },
+  {
+    "id": "Q467",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "Why is entrepreneurship important?",
+    "choices": ["It leads to creation of new organizations", "It increases unemployment", "It reduces creativity", "It slows economic growth"],
+    "answer": 0
+  },
+  {
+    "id": "Q468",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a characteristic of an entrepreneur?",
+    "choices": ["Highly creative", "Avoids risk", "Lacks motivation", "Not passionate"],
+    "answer": 0
+  },
+  {
+    "id": "Q469",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a sole proprietorship?",
+    "choices": ["Business owned by one person", "Business owned by two or more people", "Limited liability partnership", "A type of corporation"],
+    "answer": 0
+  },
+  {
+    "id": "Q470",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a partnership?",
+    "choices": ["Business owned by two or more people", "Business owned by one person", "Limited liability partnership", "A type of corporation"],
+    "answer": 0
+  },
+  {
+    "id": "Q471",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is an LLP?",
+    "choices": ["Limited Liability Partnership", "Limited Liability Proprietorship", "Limited Liability Company", "Large Liability Partnership"],
+    "answer": 0
+  },
+  {
+    "id": "Q472",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a quality of an effective leader?",
+    "choices": ["Pragmatism", "Arrogance", "Lack of flexibility", "Inauthenticity"],
+    "answer": 0
+  },
+  {
+    "id": "Q473",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is teamwork?",
+    "choices": ["Combining individual skills for a common goal", "Working alone", "Competing with others", "Avoiding collaboration"],
+    "answer": 0
+  },
+  {
+    "id": "Q474",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is active listening?",
+    "choices": ["Paying complete attention to the speaker", "Interrupting frequently", "Ignoring the speaker", "Multitasking"],
+    "answer": 0
+  },
+  {
+    "id": "Q475",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is the first step in problem solving?",
+    "choices": ["Identify the problem", "List solutions", "Select the best solution", "Implement the solution"],
+    "answer": 0
+  },
+  {
+    "id": "Q476",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is negotiation?",
+    "choices": ["A method to settle differences", "A type of conflict", "A problem solving technique", "A leadership quality"],
+    "answer": 0
+  },
+  {
+    "id": "Q477",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a business opportunity?",
+    "choices": ["A favourable situation to run a business", "A risk", "A challenge", "A threat"],
+    "answer": 0
+  },
+  {
+    "id": "Q478",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is a SWOT analysis?",
+    "choices": ["Strengths, Weaknesses, Opportunities, Threats", "Strategy, Work, Objective, Task", "Sales, Work, Opportunity, Time", "Strengths, Weaknesses, Options, Tasks"],
+    "answer": 0
+  },
+  {
+    "id": "Q479",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is the purpose of the Make in India campaign?",
+    "choices": ["To make investment easy and support new ideas", "To ignore entrepreneurs", "To increase bureaucracy", "To reduce manufacturing"],
+    "answer": 0
+  },
+  {
+    "id": "Q480",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.5,
+    "topic": "Understanding Entrepreneurship",
+    "difficulty": "easy",
+    "question": "What is risk appetite?",
+    "choices": ["The extent a company is equipped to take risk", "Avoiding all risks", "Ignoring risk", "Risk management"],
+    "answer": 0
+  },
+
+  {
+    "id": "Q481",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is market research?",
+    "choices": ["Gathering, analysing, and interpreting market information", "Ignoring the market", "Selling without research", "Avoiding customers"],
+    "answer": 0
+  },
+  {
+    "id": "Q482",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What are the 4 Ps of marketing?",
+    "choices": ["Product, Price, Promotion, Place", "Product, Price, People, Place", "Product, Promotion, People, Price", "Price, Promotion, Place, People"],
+    "answer": 0
+  },
+  {
+    "id": "Q483",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is the importance of an idea?",
+    "choices": ["Ideas are the foundation of progress", "Ideas are not important", "Ideas only come from experts", "Ideas cannot be changed"],
+    "answer": 0
+  },
+  {
+    "id": "Q484",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is CRM?",
+    "choices": ["Customer Relationship Management", "Customer Resource Management", "Client Relationship Management", "Company Resource Management"],
+    "answer": 0
+  },
+  {
+    "id": "Q485",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is a benefit of CRM?",
+    "choices": ["Improved customer satisfaction and retention", "Increased complaints", "Reduced profitability", "Ignoring customer needs"],
+    "answer": 0
+  },
+  {
+    "id": "Q486",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is networking?",
+    "choices": ["Leveraging connections to bring in new business", "Avoiding people", "Working alone", "Ignoring opportunities"],
+    "answer": 0
+  },
+  {
+    "id": "Q487",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is a benefit of networking?",
+    "choices": ["Increased business opportunities", "Reduced visibility", "Lower self‑confidence", "Ignoring leads"],
+    "answer": 0
+  },
+  {
+    "id": "Q488",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is the purpose of setting goals?",
+    "choices": ["To provide long‑term vision and short‑term motivation", "To ignore future", "To reduce focus", "To avoid success"],
+    "answer": 0
+  },
+  {
+    "id": "Q489",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is a short‑term goal?",
+    "choices": ["A specific goal for the immediate future", "A goal for the next year", "A goal for the next five years", "A long‑term plan"],
+    "answer": 0
+  },
+  {
+    "id": "Q490",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is the purpose of a business plan?",
+    "choices": ["To monitor progress and control the business", "To ignore finances", "To avoid planning", "To reduce growth"],
+    "answer": 0
+  },
+  {
+    "id": "Q491",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is included in the executive summary?",
+    "choices": ["Mission statement and company information", "Only financial data", "Only customer details", "Only product description"],
+    "answer": 0
+  },
+  {
+    "id": "Q492",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is the purpose of financial planning?",
+    "choices": ["To create goals, strategies, and timelines", "To ignore money", "To avoid investment", "To reduce spending"],
+    "answer": 0
+  },
+  {
+    "id": "Q493",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is risk management?",
+    "choices": ["Evaluating and reducing risks", "Ignoring risks", "Avoiding risk assessment", "Creating risks"],
+    "answer": 0
+  },
+  {
+    "id": "Q494",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is a collateral?",
+    "choices": ["An asset offered as security for a loan", "A type of loan", "A business plan", "A marketing strategy"],
+    "answer": 0
+  },
+  {
+    "id": "Q495",
+    "module": "Employability and Entrepreneurship Skills",
+    "unit": 8.6,
+    "topic": "Preparing to be an Entrepreneur",
+    "difficulty": "easy",
+    "question": "What is the first step in applying for bank finance?",
+    "choices": ["Submit application form and documents", "Ignore the bank", "Avoid documentation", "Wait for approval without applying"],
+    "answer": 0
+  }
+]
