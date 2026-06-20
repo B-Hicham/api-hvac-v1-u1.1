@@ -1,0 +1,752 @@
+[
+  {
+    "id": "Q001",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "What does HVAC stand for?",
+    "choices": [
+      "Heating, Ventilation, and Air Conditioning",
+      "High Voltage Air Circulation",
+      "Heating, Vacuum, and Air Compression",
+      "Home Ventilation and Air Control"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q002",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute helps an HVAC technician work efficiently during a crisis and manage clients with high temper?",
+    "choices": [
+      "Integrity",
+      "Punctuality",
+      "Patience",
+      "Critical Thinking"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q003",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute promotes trusting relationships with clients and good interaction with colleagues?",
+    "choices": [
+      "Patience",
+      "Integrity",
+      "Punctuality",
+      "Critical Thinking"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q004",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute helps an HVAC technician be organized, aware of timelines, and plan daily activities?",
+    "choices": [
+      "Patience",
+      "Integrity",
+      "Punctuality",
+      "Critical Thinking"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q005",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which attribute allows an HVAC technician to analyze issues, evaluate them, and make wise decisions?",
+    "choices": [
+      "Patience",
+      "Integrity",
+      "Punctuality",
+      "Critical Thinking"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q006",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "easy",
+    "question": "Which skill helps an HVAC technician work as a team member, communicate constraints, and build coordination?",
+    "choices": [
+      "Critical Thinking",
+      "Good Interpersonal Relationship Building",
+      "Integrity",
+      "Punctuality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q007",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What is the primary role of an HVAC technician?",
+    "choices": [
+      "To design building layouts",
+      "To install, maintain, and repair ventilation and air conditioning systems",
+      "To manage financial accounts",
+      "To write software for HVAC systems"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q008",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician identify on equipment?",
+    "choices": [
+      "Cost of equipment",
+      "Maintenance risks",
+      "Brand names",
+      "Warranty expiry dates"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q009",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What type of faults does an HVAC technician diagnose?",
+    "choices": [
+      "Software and network faults",
+      "Electrical and mechanical faults",
+      "Structural and civil faults",
+      "Plumbing and drainage faults"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q010",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What kind of repairs must an HVAC technician perform promptly and efficiently?",
+    "choices": [
+      "Aesthetic repairs",
+      "Emergency repairs",
+      "Warranty repairs only",
+      "Preventive repairs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q011",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "Which specific system does an HVAC technician troubleshoot and repair?",
+    "choices": [
+      "Fire alarm systems",
+      "HVAC system chillers",
+      "CCTV systems",
+      "Elevator systems"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q012",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician use to perform technical calculations for optimum performance?",
+    "choices": [
+      "HVAC codes and standards",
+      "Manufacturer brochures",
+      "Customer feedback forms",
+      "Social media guidelines"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q013",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician check after performing service and repair?",
+    "choices": [
+      "Customer satisfaction only",
+      "Performance of the system",
+      "Invoice amount",
+      "Weather forecast"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q014",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician keep regarding all tasks performed?",
+    "choices": [
+      "Financial records",
+      "Daily logs and records",
+      "Employee attendance",
+      "Customer birthdays"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q015",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "Which act must an HVAC technician comply with regarding safety?",
+    "choices": [
+      "Companies Act",
+      "Occupational Health and Safety Act",
+      "Banking Regulation Act",
+      "IT Act"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q016",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician do with workplace hazards?",
+    "choices": [
+      "Ignore them",
+      "Report them only once a year",
+      "Deal with them and follow safety practices",
+      "Leave them for the next shift"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q017",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "Which safety procedures must an HVAC technician follow during emergencies?",
+    "choices": [
+      "Fire safety and rescue procedures only",
+      "Fire safety, rescue, and first-aid procedures",
+      "Only first-aid procedures",
+      "Evacuation procedures only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q018",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician comply with regarding service standards?",
+    "choices": [
+      "Service standards, work instructions, and customers' requirements",
+      "Only work instructions",
+      "Only customers' requirements",
+      "Internal company gossip"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q019",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician resolve regarding customers?",
+    "choices": [
+      "Technical calculations",
+      "Customers' queries",
+      "Workplace hazards",
+      "Daily logs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q020",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician take measures to enhance?",
+    "choices": [
+      "Company profits",
+      "Own competence",
+      "Number of clients",
+      "Social media presence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q021",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician follow regarding workplace ethics?",
+    "choices": [
+      "Workplace ethics and code of conduct",
+      "Only government rules",
+      "Only personal beliefs",
+      "No specific rules"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q022",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician do prior to initiating any work?",
+    "choices": [
+      "Submit a bill",
+      "Interact with the client",
+      "Take a break",
+      "Call the supervisor"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q023",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician understand from the client?",
+    "choices": [
+      "Client's personal life",
+      "Work requirement",
+      "Client's salary",
+      "Company history"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q024",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician suggest to the client?",
+    "choices": [
+      "New brand names",
+      "Possible solutions",
+      "Personal opinions",
+      "Investment advice"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q025",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "easy",
+    "question": "What must an HVAC technician achieve as per the company's norms?",
+    "choices": [
+      "Maximum leave days",
+      "Productivity and quality",
+      "Minimum work hours",
+      "Personal targets"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q026",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "easy",
+    "question": "What knowledge should an HVAC technician possess regarding principles?",
+    "choices": [
+      "Advanced principles of air conditioning, refrigeration, heating and boiler systems",
+      "Advanced cooking skills",
+      "Advanced computer programming",
+      "Advanced accounting"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q027",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "easy",
+    "question": "In what should an HVAC technician be proficient in balancing?",
+    "choices": [
+      "Air and water treatment systems",
+      "Food and nutrition",
+      "Work and personal life",
+      "Finances and budgets"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q028",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "easy",
+    "question": "What type of communication skills should an HVAC technician possess?",
+    "choices": [
+      "Excellent written, verbal and interpersonal skills",
+      "Only verbal skills",
+      "Only written skills",
+      "No specific communication skills"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q029",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "easy",
+    "question": "What should an HVAC technician be proficient in reading?",
+    "choices": [
+      "Novels and magazines",
+      "Schematics and work plans",
+      "Newsletters",
+      "Social media posts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q030",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "easy",
+    "question": "What ability should an HVAC technician have regarding working hours?",
+    "choices": [
+      "Ability to work only during regular office hours",
+      "Ability to work after hours, weekends and public holidays with short notice",
+      "Ability to work only 9 to 5",
+      "Ability to avoid overtime"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q031",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "easy",
+    "question": "What kind of spaces should an HVAC technician be able to work in?",
+    "choices": [
+      "Large open spaces",
+      "Confined spaces",
+      "Outdoor spaces only",
+      "Air-conditioned offices"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q032",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Career Growth",
+    "difficulty": "easy",
+    "question": "What is the first step in the career growth path of an HVAC technician?",
+    "choices": [
+      "Manager",
+      "Supervisor",
+      "Senior Technician",
+      "HVAC Technician"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q033",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Career Growth",
+    "difficulty": "easy",
+    "question": "What is the second step in the career growth path of an HVAC technician?",
+    "choices": [
+      "Manager",
+      "Senior Technician",
+      "Supervisor",
+      "HVAC Technician"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q034",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Career Growth",
+    "difficulty": "easy",
+    "question": "What is the third step in the career growth path of an HVAC technician?",
+    "choices": [
+      "Manager",
+      "Senior Technician",
+      "Supervisor",
+      "HVAC Technician"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q035",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Career Growth",
+    "difficulty": "easy",
+    "question": "What is the final step in the career growth path of an HVAC technician?",
+    "choices": [
+      "Manager",
+      "Senior Technician",
+      "Supervisor",
+      "HVAC Technician"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q036",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "medium",
+    "question": "An HVAC technician with patience is most likely to be:",
+    "choices": [
+      "Efficient in work and adept at managing high-temper clients",
+      "Good at trusting relationships",
+      "Organized and aware of timelines",
+      "A good decision maker"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q037",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "medium",
+    "question": "Integrity in an HVAC technician promotes:",
+    "choices": [
+      "Trusting relationships with clients and good interaction with colleagues",
+      "Efficiency in time of crisis",
+      "Planning daily activities",
+      "Analysing and evaluating issues"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q038",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "medium",
+    "question": "Punctuality helps an HVAC technician to be:",
+    "choices": [
+      "Trustworthy and honest",
+      "Organized and aware of timelines",
+      "Patient with difficult clients",
+      "Critical in decision making"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q039",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "medium",
+    "question": "Critical thinking helps an HVAC technician to:",
+    "choices": [
+      "Work efficiently in a crisis",
+      "Build trusting relationships",
+      "Analyse, evaluate, and make wise decisions",
+      "Be punctual and organized"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q040",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "medium",
+    "question": "What does an HVAC technician do with warranty services?",
+    "choices": [
+      "Ignore them",
+      "Perform them as part of cleaning, adjusting, and repairing systems",
+      "Only document them",
+      "Refer them to the legal team"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q041",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "medium",
+    "question": "What does an HVAC technician need to communicate and manage effectively?",
+    "choices": [
+      "Workplace gossip",
+      "Work at the workplace",
+      "Personal issues",
+      "Social media accounts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q042",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "medium",
+    "question": "What must an HVAC technician do with appliance standards?",
+    "choices": [
+      "Modify them",
+      "Comply with them",
+      "Ignore them",
+      "Only read them once"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q043",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "medium",
+    "question": "An HVAC technician is expected to do all of the following EXCEPT:",
+    "choices": [
+      "Diagnose electrical and mechanical faults",
+      "Perform emergency repairs",
+      "Design building exteriors",
+      "Maintain daily logs"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q044",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "medium",
+    "question": "Which skill allows an HVAC technician to work in confined spaces?",
+    "choices": [
+      "Communication skills",
+      "Technical calculations",
+      "Physical adaptability",
+      "Balancing air and water systems"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q045",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "medium",
+    "question": "Which skill is essential for an HVAC technician to understand advanced principles of boiler systems?",
+    "choices": [
+      "Technical knowledge",
+      "Interpersonal skills",
+      "Punctuality",
+      "Patience"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q046",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Career Growth",
+    "difficulty": "medium",
+    "question": "An HVAC technician can become a senior technician by:",
+    "choices": [
+      "Gaining experience and upgrading skills",
+      "Changing jobs every month",
+      "Ignoring safety protocols",
+      "Avoiding customer interaction"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q047",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Career Growth",
+    "difficulty": "medium",
+    "question": "After becoming a supervisor, what is the next career step?",
+    "choices": [
+      "HVAC Technician",
+      "Senior Technician",
+      "Manager",
+      "Trainee"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q048",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Attributes",
+    "difficulty": "medium",
+    "question": "Which attribute is described as 'being aware of timelines and planning the day's activities'?",
+    "choices": [
+      "Patience",
+      "Integrity",
+      "Punctuality",
+      "Critical Thinking"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q049",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Roles and Responsibilities",
+    "difficulty": "medium",
+    "question": "Which of the following is a responsibility of an HVAC technician?",
+    "choices": [
+      "Managing company finances",
+      "Resolving customers' queries",
+      "Developing marketing strategies",
+      "Designing new HVAC software"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q050",
+    "module": "Role and Responsibilities of an HVAC Technician",
+    "unit": 1.1,
+    "topic": "Required Skills",
+    "difficulty": "medium",
+    "question": "An HVAC technician must have the ability to work after hours with short notice. This is an example of:",
+    "choices": [
+      "Integrity",
+      "Flexibility and readiness",
+      "Critical thinking",
+      "Interpersonal skills"
+    ],
+    "answer": 1
+  }
+]
